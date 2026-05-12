@@ -1,0 +1,873 @@
+Composition,Frequency,Novel_Family_ID,Known_System_Function
+"(6797, 8664)",164,[6797],Fam8664=Zorya__ZorB
+"(3058, 5202)",151,[5202],Fam3058=Wadjet__JetA_III
+"(11413, 11852)",100,[11413],Fam11852=PfiAT__PfiA
+"(5407, 6549)",76,[5407],Fam6549=Zorya__ZorB
+"(6565, 7498)",62,[6565],Fam7498=Wadjet__JetB_I
+"(3367, 5491)",49,[3367],Fam5491=Zorya__ZorB
+"(2672, 8789)",48,[2672],Fam8789=Zorya__ZorB
+"(5501, 6779)",44,[6779],Fam5501=Zorya__ZorB
+"(6797, 8199)",44,[6797],Fam8199=Zorya__ZorB
+"(985, 5305)",41,[985],Fam5305=PsyrTA__PsyrA
+"(7207, 9837)",40,[9837],Fam7207=AbiEii__AbiEii
+"(7207, 8534)",31,[8534],Fam7207=AbiEii__AbiEii
+"(1037, 3760)",31,[3760],Fam1037=Wadjet__JetC_III
+"(557, 4748)",31,[4748],Fam557=Wadjet__JetC_III
+"(12012, 12327)",31,[12012],Fam12327=PfiAT__PfiA
+"(1098, 3104)",30,[3104],Fam1098=Wadjet__JetC_III
+"(2672, 9366)",30,[2672],Fam9366=Zorya__ZorB
+"(1037, 3104)",27,[3104],Fam1037=Wadjet__JetC_III
+"(3249, 5668)",27,[3249],Fam5668=Zorya__ZorB
+"(1396, 5305)",27,[1396],Fam5305=PsyrTA__PsyrA
+"(1284, 5265)",26,[5265],Fam1284=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II
+"(993, 8693)",25,[8693],Fam993=Zorya__ZorA
+"(688, 4037)",22,[688],Fam4037=SEFIR__bSEFIR
+"(802, 4145)",21,[4145],Fam802=Zorya__ZorB
+"(8854, 10091)",21,[10091],Fam8854=AbiEii__AbiEii
+"(7969, 9430)",21,[9430],Fam7969=AbiEii__AbiEii
+"(1037, 3510)",21,[3510],Fam1037=Wadjet__JetC_III
+"(8637, 10067)",20,[10067],Fam8637=AbiEii__AbiEii
+"(5804, 7368)",18,[5804],Fam7368=AbiEii__AbiEii
+"(3367, 6009)",18,[3367],Fam6009=Zorya__ZorB
+"(929, 3104)",18,[3104],Fam929=Wadjet__JetC_III
+"(7207, 9438)",17,[9438],Fam7207=AbiEii__AbiEii
+"(3383, 5491)",17,[3383],Fam5491=Zorya__ZorB
+"(7686, 10315)",17,[10315],Fam7686=AbiEii__AbiEii
+"(1191, 7530)",16,[1191],Fam7530=Zorya__ZorB
+"(3975, 6244)",16,[3975],Fam6244=Zorya__ZorB
+"(12090, 12327)",16,[12090],Fam12327=PfiAT__PfiA
+"(6821, 9522)",15,[9522],Fam6821=RM_Type_II__Type_II_MTases
+"(11438, 11852)",15,[11438],Fam11852=PfiAT__PfiA
+"(12047, 12206)",15,[12047],Fam12206=PfiAT__PfiA
+"(6069, 7456)",15,[7456],Fam6069=AbiEii__AbiEii
+"(2911, 5668)",15,[2911],Fam5668=Zorya__ZorB
+"(11335, 12057)",15,[12057],Fam11335=PfiAT__PfiA
+"(2189, 7103)",15,[7103],Fam2189=RM_Type_II__Type_II_REases
+"(953, 2050)",15,[2050],Fam953=RM_Type_III__Type_III_REases
+"(677, 4748)",14,[4748],Fam677=Wadjet__JetC_III
+"(213, 3705)",14,[213],Fam3705=Zorya__ZorA
+"(5471, 5481)",14,[5471],Fam5481=Dpd__DpdB
+"(4188, 4231)",14,[4231],Fam4188=Eleos__LeoA
+"(11378, 12446)",14,[11378],Fam12446=PfiAT__PfiA
+"(4297, 5833)",13,"[4297, 5833]",Pure_Novel_System
+"(4757, 7751)",12,[4757],Fam7751=AbiEii__AbiEii
+"(9899, 10259)",12,[10259],Fam9899=AbiEii__AbiEii
+"(4809, 9707)",12,[9707],Fam4809=AbiEii__AbiEii
+"(12026, 12336)",12,[12026],Fam12336=PfiAT__PfiA
+"(6642, 6644)",12,"[6642, 6644]",Pure_Novel_System
+"(12092, 12321)",11,[12092],Fam12321=PfiAT__PfiA
+"(1657, 7108)",11,[1657],Fam7108=Hachiman__HamA_2
+"(3062, 9475)",11,[3062],Fam9475=Zorya__ZorB
+"(8275, 9404)",11,[9404],Fam8275=AbiEii__AbiEii
+"(3113, 4284)",11,[3113],Fam4284=RM_Type_IV__Type_IV_REases
+"(4275, 9907)",10,[4275],Fam9907=Zorya__ZorB
+"(1018, 2001)",10,"[1018, 2001]",Pure_Novel_System
+"(2708, 10852)",10,[2708],Fam10852=CBASS__2TM_5
+"(6783, 10200)",10,[6783],Fam10200=ShosTA__ShosT
+"(4087, 5181)",9,[4087],Fam5181=Wadjet__JetB_I
+"(8671, 10288)",9,"[8671, 10288]",Pure_Novel_System
+"(2672, 6009)",9,[2672],Fam6009=Zorya__ZorB
+"(6797, 9361)",9,[6797],Fam9361=Zorya__ZorB
+"(3880, 5985)",9,[5985],Fam3880=RM_Type_II__Type_II_MTases
+"(7512, 9927)",9,[9927],Fam7512=AbiEii__AbiEii
+"(8627, 9874)",9,[9874],Fam8627=AbiEii__AbiEii
+"(5308, 6153)",9,[5308],Fam6153=AbiEii__AbiEi_3
+"(7955, 9930)",9,[9930],Fam7955=AbiEii__AbiEii
+"(11335, 11387)",9,[11387],Fam11335=PfiAT__PfiA
+"(11335, 11991)",9,[11991],Fam11335=PfiAT__PfiA
+"(7684, 8367)",9,[8367],Fam7684=AbiEii__AbiEii
+"(2003, 4664)",9,"[2003, 4664]",Pure_Novel_System
+"(3383, 4955)",8,[3383],Fam4955=Zorya__ZorB
+"(8273, 9482)",8,[9482],Fam8273=AbiEii__AbiEii
+"(1284, 5265, 10656)",8,[5265],Fam1284=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II; Fam10656=Wadjet__JetB_I
+"(3474, 5726)",8,[3474],Fam5726=Zorya__ZorB
+"(9134, 10375)",8,[10375],Fam9134=AbiEii__AbiEii
+"(8273, 9937)",8,[9937],Fam8273=AbiEii__AbiEii
+"(6955, 8796)",8,[8796],Fam6955=PsyrTA__PsyrA
+"(8488, 9482)",8,[9482],Fam8488=AbiEii__AbiEii
+"(8213, 9956)",8,[9956],Fam8213=AbiEii__AbiEii
+"(4735, 9440)",8,[9440],Fam4735=AbiEii__AbiEii
+"(2390, 5518)",8,[2390],Fam5518=CBASS__Phospholipase
+"(2767, 11558)",8,[11558],Fam2767=PD-T7-2__PD-T7-2_B
+"(2577, 5664)",7,[5664],Fam2577=CBASS__TRIP13
+"(3487, 6575)",7,[6575],Fam3487=Wadjet__JetB_I
+"(1708, 1936)",7,[1708],Fam1936=RM_Type_IV__Type_IV_REases
+"(7552, 8664)",7,[7552],Fam8664=Zorya__ZorB
+"(7644, 8952)",7,"[7644, 8952]",Pure_Novel_System
+"(9042, 10430)",7,[10430],Fam9042=AbiEii__AbiEii
+"(1552, 8010)",7,[8010],Fam1552=Zorya__ZorA
+"(11335, 12014)",7,[12014],Fam11335=PfiAT__PfiA
+"(11972, 11978)",7,[11978],Fam11972=PfiAT__PfiT
+"(8463, 9984)",7,[9984],Fam8463=AbiEii__AbiEii
+"(5407, 6009)",7,[5407],Fam6009=Zorya__ZorB
+"(11749, 12595)",7,[12595],Fam11749=MazEF__MazF
+"(1499, 8483)",7,[8483],Fam1499=Zorya__ZorA
+"(3877, 5369)",7,"[3877, 5369]",Pure_Novel_System
+"(6107, 8898, 11970, 12283)",7,[8898],Fam6107=cas1_I_II_III_IV_V_VI_10; Fam11970=cas2_I_II_III_IV_V_VI_3; Fam12283=cas2_I_II_III_IV_V_VI_3
+"(7207, 9582)",7,[9582],Fam7207=AbiEii__AbiEii
+"(11335, 12026)",7,[12026],Fam11335=PfiAT__PfiA
+"(3744, 4528)",7,[3744],Fam4528=RM_Type_II__Type_II_MTases
+"(6181, 7724)",7,[6181],Fam7724=AbiEii__AbiEii
+"(5935, 7638)",7,[7638],Fam5935=RM_Type_II__Type_II_REases
+"(6391, 6601)",6,[6391],Fam6601=Zorya__ZorB
+"(615, 3864, 9573)",6,[3864],Fam615=Wadjet__JetC_I; Fam9573=Wadjet__JetB_I
+"(3853, 8087)",6,[8087],Fam3853=AbiEii__AbiEii
+"(3931, 4840)",6,"[3931, 4840]",Pure_Novel_System
+"(1882, 1954)",6,[1954],Fam1882=Lamassu-Fam__LmuA_effector_Lipase
+"(688, 3872)",6,"[688, 3872]",Pure_Novel_System
+"(116, 4087, 5181)",6,[4087],Fam116=Wadjet__JetC_III; Fam5181=Wadjet__JetB_I
+"(11910, 12274)",6,[11910],Fam12274=PfiAT__PfiA
+"(11335, 11997)",6,[11997],Fam11335=PfiAT__PfiA
+"(6010, 8785)",6,[8785],Fam6010=AbiEii__AbiEii
+"(1552, 8407)",6,[8407],Fam1552=Zorya__ZorA
+"(11378, 12421)",6,[11378],Fam12421=PfiAT__PfiA
+"(7552, 8199)",6,[7552],Fam8199=Zorya__ZorB
+"(5584, 7751)",6,[5584],Fam7751=AbiEii__AbiEii
+"(1371, 6678)",6,[1371],Fam6678=Gao_Mza__MzaA
+"(1146, 3342)",6,"[1146, 3342]",Pure_Novel_System
+"(2033, 12058)",6,[12058],Fam2033=Retron_II__NDT2
+"(929, 4424)",6,[4424],Fam929=Wadjet__JetC_III
+"(2928, 8789)",6,[2928],Fam8789=Zorya__ZorB
+"(5244, 8432)",6,[8432],Fam5244=RM_Type_II__Type_II_MTases
+"(1269, 7994)",6,[7994],Fam1269=Zorya__ZorA
+"(6693, 7175)",6,[7175],Fam6693=Retron_II__NDT
+"(1284, 5357)",6,[5357],Fam1284=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II
+"(6111, 8000)",6,[6111],Fam8000=AbiEii__AbiEii
+"(1552, 8515)",6,[8515],Fam1552=Zorya__ZorA
+"(801, 2038)",6,[2038],Fam801=RM_Type_III__Type_III_REases
+"(7123, 9990)",6,[9990],Fam7123=AbiEii__AbiEii
+"(7395, 7604)",6,[7395],Fam7604=AbiEii__AbiEii
+"(4210, 9195)",6,[4210],Fam9195=Zorya__ZorB
+"(9647, 9647)",6,[9647],Pure_Novel_System
+"(993, 9143)",6,[9143],Fam993=Zorya__ZorA
+"(9177, 10132)",6,[10132],Fam9177=AbiEii__AbiEii
+"(11455, 11735)",5,[11455],Fam11735=PD-T4-10__PD-T4-10_A
+"(6097, 6601)",5,[6097],Fam6601=Zorya__ZorB
+"(12056, 12444)",5,[12056],Fam12444=PfiAT__PfiA
+"(4976, 8731)",5,[4976],Fam8731=Zorya__ZorB
+"(11335, 11976)",5,[11976],Fam11335=PfiAT__PfiA
+"(8322, 8576)",5,[8576],Fam8322=AbiEii__AbiEii
+"(1167, 2232)",5,[2232],Fam1167=RM_Type_IIG__Type_IIG
+"(11335, 11989)",5,[11989],Fam11335=PfiAT__PfiA
+"(8275, 9985)",5,[9985],Fam8275=AbiEii__AbiEii
+"(1284, 5357, 10656)",5,[5357],Fam1284=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II; Fam10656=Wadjet__JetB_I
+"(3620, 3620)",5,[3620],Pure_Novel_System
+"(7715, 8113)",5,"[7715, 8113]",Pure_Novel_System
+"(17, 2815)",5,[2815],Fam17=Dpd__DpdF
+"(1591, 1622)",5,"[1591, 1622]",Pure_Novel_System
+"(7599, 7696)",5,[7599],Fam7696=AbiEii__AbiEii
+"(11968, 12446)",5,[11968],Fam12446=PfiAT__PfiA
+"(11830, 12359)",5,[11830],Fam12359=MazEF__MazE
+"(6097, 7076)",5,[6097],Fam7076=Zorya__ZorB
+"(83, 4087)",5,[4087],Fam83=Wadjet__JetC_III
+"(8679, 11410)",5,[8679],Fam11410=cas2_I_II_III_IV_V_VI_4
+"(666, 3261)",5,[3261],Fam666=BREX__brxC
+"(1050, 1121)",5,"[1050, 1121]",Pure_Novel_System
+"(6553, 8410)",5,[6553],Fam8410=Zorya__ZorB
+"(4698, 7164)",5,[4698],Fam7164=RM_Type_II__Type_II_REases
+"(3383, 5726)",5,[3383],Fam5726=Zorya__ZorB
+"(4053, 4256)",5,[4256],Fam4053=Bunzi__BnzB
+"(3125, 8345)",5,[3125],Fam8345=RosmerTA__RmrT_2600853143
+"(813, 2059)",5,"[813, 2059]",Pure_Novel_System
+"(4760, 5384)",5,[4760],Fam5384=Zorya__ZorB
+"(5802, 5882)",5,[5802],Fam5882=Zorya__ZorB
+"(2468, 5349)",5,[5349],Fam2468=BREX__brxL
+"(5521, 7751)",5,[5521],Fam7751=AbiEii__AbiEii
+"(8627, 10201)",5,[10201],Fam8627=AbiEii__AbiEii
+"(2144, 8514)",5,[8514],Fam2144=Gao_Qat__QatC
+"(11335, 11345)",5,[11345],Fam11335=PfiAT__PfiA
+"(5339, 7446, 11339)",5,[7446],Fam5339=cmr4gr7_III-B_III-C_2; Fam11339=cmr5gr11_III-B_18
+"(2404, 2511)",5,[2404],Fam2511=RM_Type_II__Type_II_MTases
+"(11335, 11901)",5,[11901],Fam11335=PfiAT__PfiA
+"(7870, 8395)",5,[8395],Fam7870=AbiEii__AbiEii
+"(5725, 7191)",5,[5725],Fam7191=PD-Lambda-5__PD-Lambda-5_B
+"(9224, 10261)",5,[10261],Fam9224=AbiEii__AbiEii
+"(7207, 9958)",5,[9958],Fam7207=AbiEii__AbiEii
+"(4753, 9888)",5,[9888],Fam4753=RM_Type_II__Type_II_MTases
+"(7476, 8199)",5,[7476],Fam8199=Zorya__ZorB
+"(6208, 8569)",5,[6208],Fam8569=RM_Type_II__Type_II_REases
+"(1612, 2017)",5,"[1612, 2017]",Pure_Novel_System
+"(5856, 8000)",4,[5856],Fam8000=AbiEii__AbiEii
+"(1231, 4145)",4,"[1231, 4145]",Pure_Novel_System
+"(257, 456)",4,[456],Fam257=RM_Type_III__Type_III_REases
+"(4887, 9823)",4,[4887],Fam9823=AbiL__AbiLii2
+"(1765, 8461)",4,[1765],Fam8461=Zorya__ZorB
+"(11867, 12387)",4,[12387],Fam11867=MazEF__MazF
+"(10113, 10273)",4,[10273],Fam10113=Thoeris_I__ThsA_new_grand
+"(5840, 7076)",4,[5840],Fam7076=Zorya__ZorB
+"(343, 9862)",4,[9862],Fam343=Wadjet__JetC_III
+"(7848, 9843)",4,[9843],Fam7848=AbiEii__AbiEii
+"(6010, 8032)",4,[8032],Fam6010=AbiEii__AbiEii
+"(4313, 7923)",4,[4313],Fam7923=SspBCDE__SspD
+"(9899, 10326)",4,[10326],Fam9899=AbiEii__AbiEii
+"(5265, 10656)",4,[5265],Fam10656=Wadjet__JetB_I
+"(9497, 10155)",4,[10155],Fam9497=ShosTA__ShosA
+"(1589, 4132)",4,[1589],Fam4132=Retron__RT_Tot
+"(8737, 10202)",4,[10202],Fam8737=AbiEii__AbiEii
+"(163, 1575)",4,[163],Fam1575=Lamassu-Fam__LmuA_effector_Protease
+"(7668, 10309)",4,[7668],Fam10309=Thoeris__ThsB_Global
+"(3338, 5668)",4,[3338],Fam5668=Zorya__ZorB
+"(3474, 6192)",4,[3474],Fam6192=Zorya__ZorB
+"(7339, 9205)",4,[9205],Fam7339=AbiEii__AbiEii
+"(3111, 3590)",4,[3590],Fam3111=Eleos__LeoBC
+"(3788, 4789)",4,[4789],Fam3788=Wadjet__JetD_III
+"(8736, 9951)",4,[8736],Fam9951=RM_Type_II__Type_II_REases
+"(156, 3556, 8031)",4,[3556],Fam156=Wadjet__JetC_III; Fam8031=Wadjet__JetB_III
+"(4065, 9800)",4,"[4065, 9800]",Pure_Novel_System
+"(8614, 9037)",4,[8614],Fam9037=ShosTA__ShosT
+"(12210, 12591)",4,[12210],Fam12591=MazEF__MazE
+"(319, 960)",4,[319],Fam960=Gao_RL__RL_C
+"(6519, 6763)",4,"[6519, 6763]",Pure_Novel_System
+"(4327, 4947)",4,[4327],Fam4947=RM_Type_II__Type_II_MTases
+"(5788, 8009)",4,[5788],Fam8009=AbiEii__AbiEii
+"(7159, 7743)",4,[7159],Fam7743=AbiEii__AbiEii
+"(5947, 6415)",4,[6415],Fam5947=Dpd__DpdB
+"(1984, 6008)",4,[1984],Fam6008=RM_Type_II__Type_II_REases
+"(4902, 5083)",4,[4902],Fam5083=BREX__brxD
+"(6601, 6767)",4,[6767],Fam6601=Zorya__ZorB
+"(6136, 7724)",4,[6136],Fam7724=AbiEii__AbiEii
+"(8168, 9430)",4,[9430],Fam8168=AbiEii__AbiEii
+"(11704, 11852)",4,[11704],Fam11852=PfiAT__PfiA
+"(3171, 9238)",4,[3171],Fam9238=Zorya__ZorB
+"(12073, 12223)",4,[12073],Fam12223=PfiAT__PfiA
+"(2631, 7949)",4,[2631],Fam7949=Zorya__ZorB
+"(6441, 9644)",4,[9644],Fam6441=AbiEii__AbiEii
+"(8151, 9835)",4,[9835],Fam8151=AbiEii__AbiEii
+"(7159, 7647)",4,[7159],Fam7647=AbiEii__AbiEii
+"(3474, 6629)",4,[3474],Fam6629=Zorya__ZorB
+"(3359, 7576)",4,[3359],Fam7576=Gao_TerY__TerYA
+"(3744, 4385)",4,[3744],Fam4385=RM_Type_II__Type_II_MTases
+"(415, 7530)",4,[415],Fam7530=Zorya__ZorB
+"(7969, 9892)",4,[9892],Fam7969=AbiEii__AbiEii
+"(577, 1800)",4,[577],Fam1800=Eleos__LeoBC
+"(5212, 5384)",4,[5212],Fam5384=Zorya__ZorB
+"(10876, 10920)",4,[10920],Fam10876=RosmerTA__RmrT_2603008502
+"(3261, 7901)",4,[3261],Fam7901=Zorya__ZorB
+"(7799, 9859)",4,[9859],Fam7799=SanaTA__SanaT
+"(6876, 10020)",4,[10020],Fam6876=SanaTA__SanaT
+"(3292, 3410)",4,[3410],Fam3292=cas10_III-D_3
+"(607, 1924)",4,[1924],Fam607=Shango__SngB
+"(7207, 9871)",4,[9871],Fam7207=AbiEii__AbiEii
+"(6146, 9682)",4,[9682],Fam6146=SanaTA__SanaT
+"(607, 2634)",4,[2634],Fam607=Shango__SngB
+"(11335, 11914)",4,[11914],Fam11335=PfiAT__PfiA
+"(5763, 8087)",4,[8087],Fam5763=AbiEii__AbiEii
+"(558, 3724, 9659)",3,[3724],Fam558=Wadjet__JetC_I; Fam9659=Wadjet__JetB_I
+"(3538, 9195)",3,[3538],Fam9195=Zorya__ZorB
+"(1682, 3671)",3,[1682],Fam3671=Pycsar__AG_cyclase
+"(2131, 4022)",3,[2131],Fam4022=BREX__brxL
+"(2285, 7024)",3,[2285],Fam7024=PsyrTA__PsyrA
+"(2623, 8358)",3,[8358],Fam2623=Pycsar__AG_cyclase
+"(1645, 7145)",3,[1645],Fam7145=Bunzi__BnzA
+"(4437, 9267)",3,[9267],Fam4437=RM_Type_II__Type_II_REases
+"(2577, 4781)",3,[4781],Fam2577=CBASS__TRIP13
+"(425, 763)",3,[425],Fam763=RM_Type_III__Type_III_REases
+"(7336, 9009)",3,[9009],Fam7336=RM_Type_II__Type_II_REases
+"(5920, 7618)",3,[5920],Fam7618=PARIS_II__AriB_DUF4435_II
+"(358, 3770, 7077)",3,[7077],Fam358=Wadjet__JetC_I; Fam3770=Wadjet__JetA_I
+"(1041, 1466)",3,[1466],Fam1041=RM_Type_III__Type_III_REases
+"(1960, 8461)",3,[1960],Fam8461=Zorya__ZorB
+"(6943, 8949)",3,[8949],Fam6943=AbiEii__AbiEii
+"(9525, 10334)",3,[10334],Fam9525=AbiEii__AbiEii
+"(12016, 12261)",3,[12261],Fam12016=PfiAT__PfiA
+"(1887, 4971)",3,[1887],Fam4971=RM_Type_II__Type_II_MTases
+"(1754, 6543)",3,[6543],Fam1754=Gao_Iet__IetS
+"(430, 1694)",3,[430],Fam1694=GAPS2__GAPS2
+"(6797, 9456)",3,[6797],Fam9456=Zorya__ZorB
+"(10369, 11412)",3,[10369],Fam11412=PD-T4-9__PD-T4-9_C
+"(9016, 12257)",3,[12257],Fam9016=RosmerTA__RmrT_2623274509
+"(8415, 10070)",3,[10070],Fam8415=AbiEii__AbiEii
+"(8854, 10185)",3,[10185],Fam8854=AbiEii__AbiEii
+"(8029, 9842)",3,[9842],Fam8029=AbiEii__AbiEii
+"(489, 4643)",3,[4643],Fam489=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II
+"(6087, 7751)",3,[6087],Fam7751=AbiEii__AbiEii
+"(7686, 10091)",3,[10091],Fam7686=AbiEii__AbiEii
+"(8289, 8948)",3,[8948],Fam8289=AbiEii__AbiEii
+"(7207, 8835)",3,[8835],Fam7207=AbiEii__AbiEii
+"(3469, 5491)",3,[3469],Fam5491=Zorya__ZorB
+"(4590, 7699)",3,[7699],Fam4590=RM_Type_II__Type_II_MTases
+"(6227, 7724)",3,[6227],Fam7724=AbiEii__AbiEii
+"(7693, 9416)",3,[7693],Fam9416=Rst_Hydrolase-Tm__Hydrolase-Tm
+"(3924, 10273)",3,[10273],Fam3924=Thoeris_I__ThsA_new_grand
+"(5308, 7585)",3,[5308],Fam7585=AbiEii__AbiEi_3
+"(6385, 9205)",3,[9205],Fam6385=AbiEii__AbiEii
+"(3089, 4912)",3,"[3089, 4912]",Pure_Novel_System
+"(1277, 5098, 10054)",3,[5098],Fam1277=Wadjet__JetC_I; Fam10054=Wadjet__JetB_III
+"(8382, 8671)",3,"[8382, 8671]",Pure_Novel_System
+"(6810, 8266)",3,[8266],Fam6810=Gao_TerY__TerYA
+"(8479, 10571)",3,[10571],Fam8479=Thoeris__ThsB_Global
+"(5999, 7820)",3,[5999],Fam7820=AbiEii__AbiEii
+"(2009, 8483)",3,[8483],Fam2009=Zorya__ZorA
+"(2137, 4348)",3,[2137],Fam4348=Dnd__DndC
+"(12180, 12330)",3,[12180],Fam12330=PfiAT__PfiA
+"(7498, 8671)",3,[8671],Fam7498=Wadjet__JetB_I
+"(338, 5209)",3,[5209],Fam338=Wadjet__JetC_II
+"(2475, 7530)",3,[2475],Fam7530=Zorya__ZorB
+"(1891, 6084)",3,[6084],Fam1891=Gao_Iet__IetS
+"(7573, 7793)",3,[7793],Fam7573=RM_Type_II__Type_II_REases
+"(7181, 7647)",3,[7181],Fam7647=AbiEii__AbiEii
+"(2139, 4952)",3,[2139],Fam4952=RM_Type_II__Type_II_MTases
+"(3916, 6871)",3,[3916],Fam6871=PARIS_II__AriB_DUF4435_II
+"(4253, 6584)",3,[6584],Fam4253=PsyrTA__PsyrA
+"(768, 1219)",3,[1219],Fam768=RM_Type_III__Type_III_REases
+"(8105, 9489)",3,[9489],Fam8105=AbiEii__AbiEii
+"(5447, 6531)",3,[5447],Fam6531=Zorya__ZorB
+"(7803, 7803)",3,[7803],Pure_Novel_System
+"(4309, 6009)",3,[4309],Fam6009=Zorya__ZorB
+"(7691, 10848)",3,[10848],Fam7691=Gao_Qat__QatB
+"(8384, 8436)",3,"[8384, 8436]",Pure_Novel_System
+"(1608, 7706)",3,[7706],Fam1608=RM_Type_II__Type_II_MTases
+"(6725, 10154, 12332)",3,[10154],Fam6725=cas1_I_II_III_IV_V_VI_1; Fam12332=cas2_I_II_III_IV_V_VI_3
+"(8038, 9644)",3,[9644],Fam8038=AbiEii__AbiEii
+"(257, 1397)",3,[1397],Fam257=RM_Type_III__Type_III_REases
+"(6502, 7817)",3,[6502],Fam7817=AbiEii__AbiEii
+"(775, 8477)",3,[8477],Fam775=Hachiman__HamB
+"(8140, 8382)",3,"[8140, 8382]",Pure_Novel_System
+"(8357, 8458)",3,"[8357, 8458]",Pure_Novel_System
+"(11776, 12421)",3,[11776],Fam12421=PfiAT__PfiA
+"(8054, 10297)",3,[10297],Fam8054=AbiEii__AbiEii
+"(1751, 9333)",3,[1751],Fam9333=Zorya__ZorB
+"(277, 2303, 2524)",3,[2524],Fam277=Dnd__DndC; Fam2303=Dnd__DndD
+"(5639, 7751)",3,[5639],Fam7751=AbiEii__AbiEii
+"(2494, 3141)",3,[2494],Fam3141=RM_Type_IV__Type_IV_REases
+"(8273, 9614)",3,[9614],Fam8273=AbiEii__AbiEii
+"(1482, 8128)",3,"[1482, 8128]",Pure_Novel_System
+"(1934, 3141)",3,[1934],Fam3141=RM_Type_IV__Type_IV_REases
+"(11751, 12563)",3,[12563],Fam11751=MazEF__MazF
+"(11826, 11971)",3,[11971],Fam11826=MazEF__MazF
+"(9432, 11211)",3,[9432],Fam11211=RnlAB__RnlB
+"(4243, 9253)",3,[4243],Fam9253=Zorya__ZorB
+"(116, 4087)",3,[4087],Fam116=Wadjet__JetC_III
+"(4803, 5447)",3,[5447],Fam4803=Zorya__ZorB
+"(969, 8421)",3,[8421],Fam969=Zorya__ZorA
+"(2325, 6666)",3,[2325],Fam6666=PsyrTA__PsyrA
+"(938, 1970)",3,[1970],Fam938=RM_Type_III__Type_III_REases
+"(7684, 8395)",3,[8395],Fam7684=AbiEii__AbiEii
+"(4128, 10273)",3,[10273],Fam4128=Thoeris_I__ThsA_new_grand
+"(8038, 9724)",3,[9724],Fam8038=AbiEii__AbiEii
+"(6990, 10154)",3,[10154],Fam6990=cas1_I_II_III_IV_V_VI_1
+"(233, 2239)",3,[2239],Fam233=MADS__mad8
+"(12107, 12274)",3,[12107],Fam12274=PfiAT__PfiA
+"(1068, 2087)",3,[1068],Fam2087=Shango__SngC
+"(8627, 10131)",3,[10131],Fam8627=AbiEii__AbiEii
+"(4030, 8053)",3,[8053],Fam4030=AbiEii__AbiEii
+"(11957, 12321)",3,[11957],Fam12321=PfiAT__PfiA
+"(5840, 7195)",3,[5840],Fam7195=Zorya__ZorB
+"(12190, 12321)",3,[12190],Fam12321=PfiAT__PfiA
+"(9346, 10091)",3,[10091],Fam9346=AbiEii__AbiEii
+"(6200, 10492)",3,[10492],Fam6200=Butters_gp30_gp31__Butters_gp30
+"(11784, 11971)",3,[11971],Fam11784=MazEF__MazF
+"(6257, 8148)",3,[8148],Fam6257=AbiEii__AbiEii
+"(3420, 9238)",3,[3420],Fam9238=Zorya__ZorB
+"(2672, 5668)",3,[2672],Fam5668=Zorya__ZorB
+"(5594, 7751)",3,[5594],Fam7751=AbiEii__AbiEii
+"(6855, 10549)",3,[10549],Fam6855=ShosTA__ShosA
+"(5763, 8111)",3,[8111],Fam5763=AbiEii__AbiEii
+"(7134, 8298)",3,[8298],Fam7134=Gao_TerY__TerYA
+"(4854, 7718)",3,[7718],Fam4854=BREX__brxD
+"(5763, 8592)",3,[8592],Fam5763=AbiEii__AbiEii
+"(6725, 10154, 12233)",3,[10154],Fam6725=cas1_I_II_III_IV_V_VI_1; Fam12233=cas2_I_II_III_IV_V_VI_3
+"(186, 7234)",3,[7234],Fam186=Mokosh_type_I__MkoA_E
+"(2302, 5518)",3,[2302],Fam5518=CBASS__Phospholipase
+"(4989, 5444)",3,"[4989, 5444]",Pure_Novel_System
+"(2189, 2808)",3,[2808],Fam2189=RM_Type_II__Type_II_REases
+"(11698, 12539)",3,[12539],Fam11698=MazEF__MazF
+"(7964, 10428)",3,[10428],Fam7964=AbiEii__AbiEii
+"(7998, 10721)",3,[10721],Fam7998=AbiEii__AbiEi_3
+"(8737, 9930)",3,[9930],Fam8737=AbiEii__AbiEii
+"(4671, 4671)",3,[4671],Pure_Novel_System
+"(8322, 8484)",3,[8484],Fam8322=AbiEii__AbiEii
+"(6725, 10154)",3,[10154],Fam6725=cas1_I_II_III_IV_V_VI_1
+"(3752, 7042, 10221)",3,[10221],Fam3752=Zorya__ZorA2; Fam7042=Zorya__ZorB
+"(949, 7827)",3,[7827],Fam949=RM_Type_III__Type_III_REases
+"(11776, 12446)",3,[11776],Fam12446=PfiAT__PfiA
+"(4593, 5447)",3,[5447],Fam4593=Zorya__ZorB
+"(5760, 11435)",3,[11435],Fam5760=CBASS__Jab
+"(4510, 9850)",3,[9850],Fam4510=SanaTA__SanaT
+"(5207, 8675)",3,[8675],Fam5207=SanaTA__SanaT
+"(1032, 4820, 4945, 9830)",3,"[4945, 9830]",Fam1032=Wadjet__JetC_III; Fam4820=Wadjet__JetD_I
+"(8363, 9520)",3,[9520],Fam8363=AbiEii__AbiEii
+"(4233, 7046)",3,[7046],Fam4233=RM_Type_II__Type_II_MTases
+"(3276, 3711)",3,[3711],Fam3276=RM__Type_I_MTases
+"(7567, 7696)",3,[7567],Fam7696=AbiEii__AbiEii
+"(2028, 2247)",3,[2028],Fam2247=Eleos__LeoA
+"(85, 2168)",3,[85],Fam2168=Druantia_II__DruF
+"(11955, 12398)",3,[11955],Fam12398=PfiAT__PfiA
+"(2298, 4458)",3,[4458],Fam2298=BREX__brxL
+"(688, 4375)",3,"[688, 4375]",Pure_Novel_System
+"(6169, 9182)",3,[9182],Fam6169=ShosTA__ShosT
+"(639, 960)",3,[639],Fam960=Gao_RL__RL_C
+"(106, 4047)",3,[106],Fam4047=BREX__brxL
+"(4016, 4312)",3,[4016],Fam4312=Thoeris_I__ThsA_new_grand
+"(5523, 10973)",3,[5523],Fam10973=Menshen__NsnC_2726213746
+"(4735, 9758)",3,[9758],Fam4735=AbiEii__AbiEii
+"(4244, 4928, 8556)",3,[8556],Fam4244=Shango__SngB; Fam4928=BREX__brxD
+"(6669, 9764)",3,[6669],Fam9764=Septu__PtuB
+"(7437, 10385)",3,[7437],Fam10385=PD-T4-10__PD-T4-10_A
+"(11335, 12029)",3,[12029],Fam11335=PfiAT__PfiA
+"(7200, 7700)",3,[7200],Fam7700=RM_Type_II__Type_II_REases
+"(1269, 7918)",3,[7918],Fam1269=Zorya__ZorA
+"(11973, 12293)",3,[11973],Fam12293=PfiAT__PfiA
+"(8525, 11025)",3,[11025],Fam8525=AbiEii__AbiEii
+"(2577, 5708)",3,[5708],Fam2577=CBASS__TRIP13
+"(358, 7077)",3,[7077],Fam358=Wadjet__JetC_I
+"(5357, 10656)",2,[5357],Fam10656=Wadjet__JetB_I
+"(3108, 3990)",2,[3990],Fam3108=RM_Type_II__Type_II_REases
+"(7997, 9147)",2,[9147],Fam7997=AbiEii__AbiEii
+"(2137, 4348, 6248)",2,[2137],Fam4348=Dnd__DndC; Fam6248=Dnd__DndB
+"(1125, 7153)",2,[1125],Fam7153=Septu__PtuB_2
+"(4763, 6466)",2,[6466],Fam4763=Eleos__LeoBC
+"(148, 3285, 8031)",2,[3285],Fam148=Wadjet__JetC_III; Fam8031=Wadjet__JetB_III
+"(8317, 9851)",2,[9851],Fam8317=AbiEii__AbiEii
+"(3769, 5598)",2,[3769],Fam5598=Eleos__LeoBC
+"(8627, 10183)",2,[10183],Fam8627=AbiEii__AbiEii
+"(8637, 10712)",2,[10712],Fam8637=AbiEii__AbiEii
+"(5480, 11749)",2,[5480],Fam11749=MazEF__MazF
+"(159, 3690, 6390)",2,[3690],Fam159=Wadjet__JetC_III; Fam6390=Wadjet__JetD_III
+"(1659, 5518)",2,[1659],Fam5518=CBASS__Phospholipase
+"(361, 2600)",2,"[361, 2600]",Pure_Novel_System
+"(10084, 10108)",2,[10084],Fam10108=cas6_I-B_III_1
+"(466, 5356)",2,[5356],Fam466=RM__Type_I_MTases
+"(1094, 4264)",2,"[1094, 4264]",Pure_Novel_System
+"(498, 2479)",2,"[498, 2479]",Pure_Novel_System
+"(8275, 9912)",2,[9912],Fam8275=AbiEii__AbiEii
+"(6018, 10871)",2,"[6018, 10871]",Pure_Novel_System
+"(10978, 11559)",2,"[10978, 11559]",Pure_Novel_System
+"(1835, 9143)",2,[9143],Fam1835=Zorya__ZorA
+"(1393, 1569)",2,[1569],Fam1393=RM_Type_III__Type_III_REases
+"(4352, 7139)",2,[7139],Fam4352=CBASS__AG_E1_ThiF
+"(11420, 11969)",2,[11420],Fam11969=MazEF__MazF
+"(11347, 11525)",2,[11525],Fam11347=Thoeris__ThsB_Global
+"(5210, 10538)",2,[5210],Fam10538=RosmerTA__RmrT_2634932349
+"(8213, 8948)",2,[8948],Fam8213=AbiEii__AbiEii
+"(453, 1199)",2,[1199],Fam453=DmdDE__DdmD
+"(6788, 8239)",2,"[6788, 8239]",Pure_Novel_System
+"(1313, 7530)",2,[1313],Fam7530=Zorya__ZorB
+"(10545, 11694)",2,[11694],Fam10545=PD-T4-9__PD-T4-9_A
+"(723, 1397)",2,[1397],Fam723=RM_Type_III__Type_III_REases
+"(373, 3224)",2,[3224],Fam373=Gabija__GajB_2
+"(1396, 6666)",2,[1396],Fam6666=PsyrTA__PsyrA
+"(5983, 6247)",2,[6247],Fam5983=RM_Type_II__Type_II_REases
+"(1882, 2066)",2,[2066],Fam1882=Lamassu-Fam__LmuA_effector_Lipase
+"(76, 334)",2,[334],Fam76=Druantia__DruE_1
+"(442, 2226)",2,"[442, 2226]",Pure_Novel_System
+"(7591, 12130)",2,[7591],Fam12130=cas2_I_II_III_IV_V_VI_13
+"(1092, 11673)",2,[11673],Fam1092=Zorya_TypeI__ZorD
+"(1961, 6052)",2,[6052],Fam1961=Pif__PifA
+"(1269, 8936)",2,[8936],Fam1269=Zorya__ZorA
+"(2560, 4894, 10162)",2,[10162],Fam2560=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II; Fam4894=Lamassu-Fam__LmuA_effector_Cap4_nuclease_II
+"(2671, 3163)",2,[3163],Fam2671=Gabija__GajA
+"(5242, 6294)",2,"[5242, 6294]",Pure_Novel_System
+"(7211, 10365)",2,[10365],Fam7211=CBASS__Cyclase_SMODS
+"(1166, 4998)",2,[4998],Fam1166=Wadjet__JetC_I
+"(1517, 2984)",2,[1517],Fam2984=Pycsar__AG_cyclase
+"(3566, 3714)",2,[3714],Fam3566=Wadjet__JetA_III
+"(2343, 7475)",2,[2343],Fam7475=Septu__PtuB_2
+"(10154, 12233)",2,[10154],Fam12233=cas2_I_II_III_IV_V_VI_3
+"(6411, 7820)",2,[6411],Fam7820=AbiEii__AbiEii
+"(2318, 5000)",2,[5000],Fam2318=Shango__SngB
+"(2318, 5422)",2,[5422],Fam2318=Shango__SngB
+"(1140, 1729)",2,[1729],Fam1140=RM_Type_II__Type_II_REases
+"(6389, 10360)",2,[6389],Fam10360=RM_Type_II__Type_II_REases
+"(9447, 10315)",2,[10315],Fam9447=AbiEii__AbiEii
+"(257, 1492)",2,[1492],Fam257=RM_Type_III__Type_III_REases
+"(213, 4083)",2,[213],Fam4083=Zorya__ZorA
+"(4244, 8556)",2,[8556],Fam4244=Shango__SngB
+"(1826, 3340)",2,[1826],Fam3340=RosmerTA__RmrT_2585209417
+"(544, 7850)",2,[544],Fam7850=SspBCDE__SspD
+"(5745, 8217)",2,[5745],Fam8217=AbiEii__AbiEi_1
+"(1420, 3149)",2,[3149],Fam1420=RM_Type_III__Type_III_REases
+"(6265, 9884)",2,[6265],Fam9884=PD-T4-2__PD-T4-2_B
+"(2159, 5905)",2,[2159],Fam5905=Retron__RT_Tot
+"(2109, 11478)",2,[11478],Fam2109=RM_Type_IV__Type_IV_REases
+"(11972, 12199)",2,[12199],Fam11972=PfiAT__PfiT
+"(10621, 11298)",2,[11298],Fam10621=Thoeris__ThsB_Global
+"(4606, 9695)",2,[9695],Fam4606=AbiL__AbiLi2
+"(11798, 11971)",2,[11971],Fam11798=MazEF__MazF
+"(3511, 3511)",2,[3511],Pure_Novel_System
+"(9227, 10443)",2,[10443],Fam9227=AbiEii__AbiEii
+"(9721, 10044)",2,[10044],Fam9721=cas6_I-B_III_1
+"(2363, 5318)",2,[2363],Fam5318=CBASS__Phospholipase
+"(11867, 12431)",2,[12431],Fam11867=MazEF__MazF
+"(2065, 8697)",2,[8697],Fam2065=Gabija__GajB_2
+"(175, 1139)",2,[1139],Fam175=RM_Type_IIG__Type_IIG
+"(2252, 8960)",2,[2252],Fam8960=Zorya__ZorB
+"(607, 2010)",2,[2010],Fam607=Shango__SngB
+"(11707, 11707)",2,[11707],Pure_Novel_System
+"(2282, 6749)",2,[2282],Fam6749=Hachiman__HamA_1
+"(7630, 9594)",2,[7630],Fam9594=AbiEii__AbiEi_4
+"(1660, 9073)",2,[1660],Fam9073=cas5_I-C_5
+"(6607, 8013)",2,[6607],Fam8013=AbiEii__AbiEii
+"(12044, 12444)",2,[12044],Fam12444=PfiAT__PfiA
+"(8275, 9520)",2,[9520],Fam8275=AbiEii__AbiEii
+"(5867, 7881)",2,[5867],Fam7881=AbiEii__AbiEii
+"(8038, 9602)",2,[9602],Fam8038=AbiEii__AbiEii
+"(6146, 9611)",2,[9611],Fam6146=SanaTA__SanaT
+"(8362, 9930)",2,[9930],Fam8362=AbiEii__AbiEii
+"(8363, 10068)",2,[10068],Fam8363=AbiEii__AbiEii
+"(7986, 9744)",2,[9744],Fam7986=AbiEii__AbiEii
+"(6108, 8604)",2,[8604],Fam6108=SanaTA__SanaT
+"(6831, 7398)",2,[6831],Fam7398=Pycsar__AG_cyclase
+"(1077, 2727)",2,"[1077, 2727]",Pure_Novel_System
+"(318, 5017)",2,[5017],Fam318=Wadjet__JetC_III
+"(3839, 9179)",2,[9179],Fam3839=cas10_III-D_3
+"(9412, 10322)",2,[10322],Fam9412=AbiEii__AbiEii
+"(2476, 3733)",2,"[2476, 3733]",Pure_Novel_System
+"(9328, 10459)",2,[10459],Fam9328=AbiEii__AbiEii
+"(332, 7719)",2,[332],Fam7719=Wadjet__JetD_I
+"(607, 3117)",2,[3117],Fam607=Shango__SngB
+"(2459, 10162)",2,[10162],Fam2459=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II
+"(5811, 7991)",2,[5811],Fam7991=AbiEii__AbiEii
+"(5308, 8638)",2,[5308],Fam8638=AbiEii__AbiEi_3
+"(6319, 9176)",2,[9176],Fam6319=AbiEii__AbiEii
+"(4174, 5985)",2,[5985],Fam4174=RM_Type_II__Type_II_MTases
+"(8363, 9985)",2,[9985],Fam8363=AbiEii__AbiEii
+"(854, 4748)",2,[4748],Fam854=Wadjet__JetC_III
+"(4286, 8586)",2,"[4286, 8586]",Pure_Novel_System
+"(9224, 10390)",2,[10390],Fam9224=AbiEii__AbiEii
+"(4088, 8756)",2,[8756],Fam4088=Gao_TerY__TerYC
+"(1098, 3104, 8418)",2,[3104],Fam1098=Wadjet__JetC_III; Fam8418=Wadjet__JetB_I
+"(5056, 6330, 6882)",2,[5056],Fam6330=RM_Type_II__Type_II_MTases; Fam6882=RM_Type_II__Type_II_REases
+"(4496, 5337)",2,[4496],Fam5337=SspBCDE__SspD
+"(456, 848)",2,[456],Fam848=RM_Type_III__Type_III_REases
+"(1586, 9557)",2,[9557],Fam1586=cas3_I_2
+"(2034, 2034)",2,[2034],Pure_Novel_System
+"(5928, 9218)",2,[5928],Fam9218=CapRel__CapRel
+"(6822, 7185)",2,"[6822, 7185]",Pure_Novel_System
+"(1695, 7530)",2,[1695],Fam7530=Zorya__ZorB
+"(12126, 12365)",2,[12126],Fam12365=PfiAT__PfiA
+"(5573, 8796)",2,[8796],Fam5573=PsyrTA__PsyrA
+"(6803, 10154)",2,[10154],Fam6803=cas1_I_II_III_IV_V_VI_1
+"(83, 4087, 5181)",2,[4087],Fam83=Wadjet__JetC_III; Fam5181=Wadjet__JetB_I
+"(3518, 5155)",2,[3518],Fam5155=Wadjet__JetD_II
+"(6597, 7948)",2,[7948],Fam6597=Gao_TerY__TerYA
+"(12522, 12618)",2,"[12522, 12618]",Pure_Novel_System
+"(3727, 8789)",2,[3727],Fam8789=Zorya__ZorB
+"(1829, 3078)",2,[1829],Fam3078=Eleos__LeoA
+"(7980, 10520)",2,[10520],Fam7980=AbiEii__AbiEii
+"(6257, 8927)",2,[8927],Fam6257=AbiEii__AbiEii
+"(3816, 8963)",2,"[3816, 8963]",Pure_Novel_System
+"(7821, 9562)",2,[7821],Fam9562=ShosTA__ShosT
+"(7577, 7601)",2,[7577],Fam7601=AbiEii__AbiEii
+"(4735, 9606)",2,[9606],Fam4735=AbiEii__AbiEii
+"(1277, 5098)",2,[5098],Fam1277=Wadjet__JetC_I
+"(7100, 8696)",2,[8696],Fam7100=AbiEii__AbiEii
+"(427, 803)",2,"[427, 803]",Pure_Novel_System
+"(4530, 5013)",2,[4530],Fam5013=Shango__SngB
+"(8193, 9930)",2,[9930],Fam8193=AbiEii__AbiEii
+"(9779, 10331)",2,[10331],Fam9779=AbiEii__AbiEii
+"(1384, 3327)",2,[3327],Fam1384=RM_Type_III__Type_III_REases
+"(3474, 4955)",2,[3474],Fam4955=Zorya__ZorB
+"(8854, 10436)",2,[10436],Fam8854=AbiEii__AbiEii
+"(2866, 6594)",2,"[2866, 6594]",Pure_Novel_System
+"(6069, 8781)",2,[8781],Fam6069=AbiEii__AbiEii
+"(7207, 9606)",2,[9606],Fam7207=AbiEii__AbiEii
+"(6311, 10613)",2,[6311],Fam10613=AbiEii__AbiEi_4
+"(10485, 11521)",2,[10485],Fam11521=FS_HsdR_like__HP
+"(1181, 11311)",2,"[1181, 11311]",Pure_Novel_System
+"(3338, 5926)",2,[3338],Fam5926=Zorya__ZorB
+"(11866, 12595)",2,[12595],Fam11866=MazEF__MazF
+"(1063, 6555)",2,[1063],Fam6555=RM_Type_IV__Type_IV_REases
+"(4031, 5988)",2,[4031],Fam5988=SspBCDE__SspD
+"(3367, 5926)",2,[3367],Fam5926=Zorya__ZorB
+"(9574, 10841)",2,[10841],Fam9574=ShosTA__ShosT
+"(607, 3793)",2,[3793],Fam607=Shango__SngB
+"(7420, 8382)",2,"[7420, 8382]",Pure_Novel_System
+"(12004, 12312)",2,[12004],Fam12312=PfiAT__PfiA
+"(11629, 11944)",2,[11944],Fam11629=PfiAT__PfiA
+"(7525, 9591)",2,[9591],Fam7525=AbiEii__AbiEii
+"(8275, 9697)",2,[9697],Fam8275=AbiEii__AbiEii
+"(8151, 9964)",2,[9964],Fam8151=AbiEii__AbiEii
+"(6315, 10697)",2,[10697],Fam6315=CBASS__Cyclase_SMODS
+"(6827, 11122)",2,[11122],Fam6827=cas1_I_II_III_IV_V_VI_1
+"(8627, 10321)",2,[10321],Fam8627=AbiEii__AbiEii
+"(7189, 10845)",2,[10845],Fam7189=Butters_gp30_gp31__Butters_gp30
+"(12064, 12365)",2,[12064],Fam12365=PfiAT__PfiA
+"(6698, 9549)",2,"[6698, 9549]",Pure_Novel_System
+"(8610, 9168)",2,[9168],Fam8610=AbiEii__AbiEii
+"(8769, 10131)",2,[10131],Fam8769=AbiEii__AbiEii
+"(6771, 9369)",2,[9369],Fam6771=cas1_I_II_III_IV_V_VI_10
+"(8361, 9697)",2,[9697],Fam8361=AbiEii__AbiEii
+"(4309, 5491)",2,[4309],Fam5491=Zorya__ZorB
+"(7252, 11470)",2,[11470],Fam7252=ShosTA__ShosA
+"(6444, 10704)",2,"[6444, 10704]",Pure_Novel_System
+"(7686, 10445)",2,[10445],Fam7686=AbiEii__AbiEii
+"(2390, 5419)",2,[2390],Fam5419=CBASS__Phospholipase
+"(3734, 6601, 7366)",2,[7366],Fam3734=Zorya__ZorA; Fam6601=Zorya__ZorB
+"(6050, 8553)",2,[6050],Fam8553=Zorya__ZorB
+"(7395, 7669)",2,[7395],Fam7669=AbiEii__AbiEii
+"(6807, 6808)",2,[6808],Fam6807=AbiEii__AbiEii
+"(5862, 8414)",2,[8414],Fam5862=RM_Type_II__Type_II_REases
+"(1598, 8689)",2,[1598],Fam8689=Hachiman__HamA_1
+"(4555, 11184)",2,"[4555, 11184]",Pure_Novel_System
+"(1254, 9408)",2,"[1254, 9408]",Pure_Novel_System
+"(11977, 12291)",2,"[11977, 12291]",Pure_Novel_System
+"(3474, 5491)",2,[3474],Fam5491=Zorya__ZorB
+"(3165, 9380)",2,[3165],Fam9380=Zorya__ZorB
+"(1269, 8010)",2,[8010],Fam1269=Zorya__ZorA
+"(6506, 9737)",2,[6506],Fam9737=AbiEii__AbiEii
+"(2583, 6713)",2,[2583],Fam6713=WYL_I_II_III_IV_V_VI_1
+"(3631, 8789)",2,[3631],Fam8789=Zorya__ZorB
+"(6319, 9301)",2,[9301],Fam6319=AbiEii__AbiEii
+"(1797, 1806)",2,[1797],Fam1806=Shango__SngA
+"(2532, 5377)",2,[5377],Fam2532=PD-T4-6__PD-T4-6
+"(1693, 4145)",2,"[1693, 4145]",Pure_Novel_System
+"(539, 5487)",2,"[539, 5487]",Pure_Novel_System
+"(5169, 10203)",2,[5169],Fam10203=Wadjet__JetB_I
+"(812, 7113, 11918)",2,[812],Fam7113=cas1_I_II_III_IV_V_VI_5; Fam11918=cas2_I_II_III_IV_V_VI_6
+"(6001, 8449)",2,[6001],Fam8449=AbiEii__AbiEii
+"(492, 3968, 5465, 9331)",2,[3968],Fam492=Wadjet__JetC_I; Fam5465=Wadjet__JetD_I; Fam9331=Wadjet__JetB_I
+"(7571, 9303)",2,[7571],Fam9303=Zorya__ZorB
+"(399, 2212)",2,[2212],Fam399=RM_Type_III__Type_III_REases
+"(1440, 2537)",2,[2537],Fam1440=RM_Type_III__Type_III_REases
+"(4356, 4571)",2,[4571],Fam4356=Bunzi__BnzB
+"(3038, 5668)",2,[3038],Fam5668=Zorya__ZorB
+"(7042, 7886)",2,[7886],Fam7042=Zorya__ZorB
+"(8819, 10205)",2,"[8819, 10205]",Pure_Novel_System
+"(6905, 7802)",2,[6905],Fam7802=AbiEii__AbiEii
+"(1484, 2674, 3258)",2,[1484],Fam2674=Retron__RT_Tot; Fam3258=Retron_XIII__WHSWIM
+"(6224, 10236)",2,[10236],Fam6224=RM_Type_II__Type_II_MTases
+"(79, 4454)",2,[79],Fam4454=Wadjet__JetA_III
+"(1525, 8377)",2,[1525],Fam8377=Hachiman__HamA_1
+"(2162, 4449)",2,[4449],Fam2162=BREX__brxL
+"(5911, 10031)",2,[10031],Fam5911=AbiEii__AbiEii
+"(513, 861)",2,[861],Fam513=BREX__brxHII
+"(1252, 3232, 6533, 8555)",2,[3232],Fam1252=cas10_III-A_1; Fam6533=csm4gr5_III-A_3; Fam8555=csm3gr7_III-A_1
+"(1899, 7563)",2,[7563],Fam1899=Eleos__LeoBC
+"(12136, 12292)",2,[12136],Fam12292=PfiAT__PfiA
+"(2513, 11115)",2,[11115],Fam2513=RM_Type_II__Type_II_REases
+"(4735, 9853)",2,[9853],Fam4735=AbiEii__AbiEii
+"(5974, 7443)",2,[5974],Fam7443=AbiEii__AbiEii
+"(755, 6862)",2,[755],Fam6862=PsyrTA__PsyrA
+"(688, 4100)",2,"[688, 4100]",Pure_Novel_System
+"(494, 852, 2385)",2,[494],Fam852=RM_Type_III__Type_III_REases; Fam2385=RM_Type_III__Type_III_MTases
+"(4917, 9639)",2,[9639],Fam4917=AbiEii__AbiEii
+"(1867, 4391)",2,[4391],Fam1867=RM_Type_II__Type_II_REases
+"(2189, 10580)",2,[10580],Fam2189=RM_Type_II__Type_II_REases
+"(6393, 7679)",2,[6393],Fam7679=cmr4gr7_III-B_III-C_2
+"(2957, 3563)",2,[2957],Fam3563=RM__Type_I_MTases
+"(1659, 3389)",2,"[1659, 3389]",Pure_Novel_System
+"(4698, 8603)",2,[4698],Fam8603=RM_Type_II__Type_II_REases
+"(8626, 9912)",2,[9912],Fam8626=AbiEii__AbiEii
+"(6257, 7808)",2,[7808],Fam6257=AbiEii__AbiEii
+"(8213, 10223)",2,[10223],Fam8213=AbiEii__AbiEii
+"(6988, 11060)",2,"[6988, 11060]",Pure_Novel_System
+"(9178, 11059)",2,[11059],Fam9178=Thoeris__ThsB_Global
+"(1090, 2216)",2,[1090],Fam2216=Azaca__ZacB
+"(4199, 10232)",2,[4199],Fam10232=PD-T4-4__PD-T4-4_B
+"(8900, 10040)",2,"[8900, 10040]",Pure_Novel_System
+"(512, 893)",2,[512],Fam893=RM_Type_III__Type_III_REases
+"(1037, 3104, 5173)",2,[3104],Fam1037=Wadjet__JetC_III; Fam5173=Wadjet__JetD_I
+"(3779, 7078)",2,"[3779, 7078]",Pure_Novel_System
+"(7920, 10080)",2,[10080],Fam7920=AbiEii__AbiEii
+"(8455, 11080)",2,[11080],Fam8455=AbiEii__AbiEi_3
+"(11830, 12482)",2,[11830],Fam12482=MazEF__MazE
+"(452, 3783, 9304)",2,[9304],Fam452=Wadjet__JetC_III; Fam3783=Wadjet__JetA_III
+"(8712, 9937)",2,[9937],Fam8712=AbiEii__AbiEii
+"(5138, 8690)",2,[8690],Fam5138=cas8f_I-F_8
+"(4147, 8053)",2,[8053],Fam4147=AbiEii__AbiEii
+"(6069, 8032)",2,[8032],Fam6069=AbiEii__AbiEii
+"(5725, 6340)",2,[5725],Fam6340=PD-Lambda-5__PD-Lambda-5_B
+"(1462, 7109)",2,[7109],Fam1462=Gao_RL__RL_A
+"(2460, 2855)",2,[2460],Fam2855=Lamassu-Fam__LmuA_effector_Protease
+"(128, 2292)",2,"[128, 2292]",Pure_Novel_System
+"(8732, 10397)",2,[10397],Fam8732=AbiEii__AbiEii
+"(2603, 9005)",2,[9005],Fam2603=RM_Type_II__Type_II_MTases
+"(1488, 10992)",2,[10992],Fam1488=Shango__SngC
+"(3883, 4151)",2,[3883],Fam4151=Septu__PtuA
+"(2154, 8421)",2,[8421],Fam2154=Zorya__ZorA
+"(8361, 9404)",2,[9404],Fam8361=AbiEii__AbiEii
+"(6069, 7808)",2,[7808],Fam6069=AbiEii__AbiEii
+"(1250, 2232)",2,[2232],Fam1250=RM_Type_IIG__Type_IIG
+"(6774, 7413)",2,[7413],Fam6774=RM_Type_II__Type_II_REases
+"(8004, 10225)",2,[10225],Fam8004=AbiEii__AbiEii
+"(5577, 9748)",2,[9748],Fam5577=RM_Type_II__Type_II_MTases
+"(8275, 9970)",2,[9970],Fam8275=AbiEii__AbiEii
+"(7713, 8709)",2,[8709],Fam7713=Zorya__ZorB
+"(1257, 8421)",2,[8421],Fam1257=Zorya__ZorA
+"(3322, 9692)",2,[3322],Fam9692=Zorya__ZorB
+"(3143, 7670)",2,[7670],Fam3143=RM_Type_II__Type_II_MTases
+"(3115, 8825)",2,[3115],Fam8825=Zorya__ZorB
+"(4528, 11073)",2,[11073],Fam4528=RM_Type_II__Type_II_MTases
+"(10784, 10932)",2,[10932],Fam10784=Thoeris__ThsB_Global
+"(2189, 7401)",2,[7401],Fam2189=RM_Type_II__Type_II_REases
+"(4137, 7118)",2,[4137],Fam7118=Zorya__ZorB
+"(690, 1001)",2,[690],Fam1001=Mokosh_type_I__MkoA_E
+"(2937, 8461)",2,[2937],Fam8461=Zorya__ZorB
+"(1835, 8693)",2,[8693],Fam1835=Zorya__ZorA
+"(1096, 4345, 9101)",2,[9101],Fam1096=Wadjet__JetC_III; Fam4345=Wadjet__JetA_III
+"(7207, 9620)",2,[9620],Fam7207=AbiEii__AbiEii
+"(566, 1868)",2,[566],Fam1868=RM_Type_IV__Type_IV_REases
+"(3729, 6526)",2,"[3729, 6526]",Pure_Novel_System
+"(2932, 3257, 4366)",2,[4366],Fam2932=Retron__RT_Tot; Fam3257=Retron_XIII__WHSWIM
+"(3838, 9238)",2,[3838],Fam9238=Zorya__ZorB
+"(2668, 7530)",2,[2668],Fam7530=Zorya__ZorB
+"(5263, 6690)",2,[5263],Fam6690=Eleos__LeoBC
+"(3804, 6127)",2,[3804],Fam6127=Dodola__DolB
+"(11335, 11790)",2,[11790],Fam11335=PfiAT__PfiA
+"(7545, 9849)",2,"[7545, 9849]",Pure_Novel_System
+"(7980, 10598)",2,[10598],Fam7980=AbiEii__AbiEii
+"(2564, 8789)",2,[2564],Fam8789=Zorya__ZorB
+"(4073, 6584)",2,[6584],Fam4073=PsyrTA__PsyrA
+"(3864, 9573)",2,[3864],Fam9573=Wadjet__JetB_I
+"(2016, 4718)",2,[2016],Fam4718=RM_Type_II__Type_II_REases
+"(2798, 9333)",2,[2798],Fam9333=Zorya__ZorB
+"(1098, 3597)",2,[3597],Fam1098=Wadjet__JetC_III
+"(431, 4643)",2,[4643],Fam431=Wadjet__JetC_II
+"(6298, 7991)",2,[6298],Fam7991=AbiEii__AbiEii
+"(422, 4428, 9904)",2,"[4428, 9904]",Fam422=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II
+"(5461, 6127)",2,[5461],Fam6127=Dodola__DolB
+"(1243, 11311)",2,"[1243, 11311]",Pure_Novel_System
+"(6710, 9079, 9822)",2,[9079],Fam6710=CBASS__Cyclase_II; Fam9822=CBASS__Effector_2TM_S_2TMBeta
+"(4919, 7528)",2,[7528],Fam4919=Menshen__NsnB
+"(5361, 5444)",2,"[5361, 5444]",Pure_Novel_System
+"(6771, 11122)",2,[11122],Fam6771=cas1_I_II_III_IV_V_VI_10
+"(4925, 7576)",2,[4925],Fam7576=Gao_TerY__TerYA
+"(558, 4167, 9659)",2,[4167],Fam558=Wadjet__JetC_I; Fam9659=Wadjet__JetB_I
+"(2390, 5318)",2,[2390],Fam5318=CBASS__Phospholipase
+"(1392, 2685)",2,[2685],Fam1392=RM_Type_III__Type_III_REases
+"(1058, 2165)",2,[2165],Fam1058=RM_Type_II__Type_II_REases
+"(5958, 6247)",2,[6247],Fam5958=RM_Type_II__Type_II_REases
+"(7824, 9709)",2,[9709],Fam7824=AbiEii__AbiEii
+"(3405, 9481)",2,[9481],Fam3405=DarTG__DarT
+"(262, 742)",2,[262],Fam742=DdmDE__DdmE
+"(6769, 8796)",2,[8796],Fam6769=PsyrTA__PsyrA
+"(3067, 4217)",2,[4217],Fam3067=Gabija__GajA
+"(1694, 11415)",2,[11415],Fam1694=GAPS2__GAPS2
+"(382, 608)",2,[608],Fam382=RM_Type_II__Type_II_MTases
+"(2370, 6334)",2,[2370],Fam6334=RM_Type_II__Type_II_REases
+"(8122, 9712)",2,"[8122, 9712]",Pure_Novel_System
+"(4399, 9938)",2,[4399],Fam9938=AbiL__AbiLii2
+"(11993, 12467)",2,[12467],Fam11993=MazEF__MazF
+"(1869, 8136)",2,[1869],Fam8136=RM_Type_II__Type_II_MTases
+"(6946, 10154, 12233)",2,[10154],Fam6946=cas1_I_II_III_IV_V_VI_1; Fam12233=cas2_I_II_III_IV_V_VI_3
+"(6558, 11198)",2,[6558],Fam11198=cas2_I_II_III_IV_V_VI_4
+"(69, 1738)",2,[1738],Fam69=RM_Type_IIG__Type_IIG
+"(418, 6495)",2,[6495],Fam418=Wadjet__JetC_III
+"(359, 3913, 9288)",2,[3913],Fam359=Wadjet__JetC_I; Fam9288=Wadjet__JetB_I
+"(11667, 11778)",2,[11778],Fam11667=cas6f_I_II_III_IV_V_VI_3
+"(1069, 2399)",2,[2399],Fam1069=RM_Type_III__Type_III_REases
+"(6146, 9901)",2,[9901],Fam6146=SanaTA__SanaT
+"(8664, 9569)",2,[9569],Fam8664=Zorya__ZorB
+"(4838, 11217)",2,[11217],Fam4838=PD-T4-4__PD-T4-4_A
+"(429, 7309)",2,[429],Fam7309=Hachiman__HamA_1
+"(7488, 9826)",2,[9826],Fam7488=AbiEii__AbiEii
+"(980, 1120)",2,[1120],Fam980=RM_Type_III__Type_III_REases
+"(3444, 7993)",2,[3444],Fam7993=Gao_TerY__TerYA
+"(67, 3058, 5202)",2,[5202],Fam67=Wadjet__JetC_III; Fam3058=Wadjet__JetA_III
+"(768, 1091)",2,[1091],Fam768=RM_Type_III__Type_III_REases
+"(4238, 7901)",2,[4238],Fam7901=Zorya__ZorB
+"(8361, 9970)",2,[9970],Fam8361=AbiEii__AbiEii
+"(6616, 10144)",2,[6616],Fam10144=RM_Type_II__Type_II_MTases
+"(11335, 11973)",2,[11973],Fam11335=PfiAT__PfiA
+"(2104, 2538)",2,[2538],Fam2104=RM_Type_III__Type_III_REases
+"(395, 961)",2,[395],Fam961=pAgo__pAgo_LongA
+"(564, 3751, 5264, 10256)",2,[3751],Fam564=Wadjet__JetC_I; Fam5264=Wadjet__JetD_I; Fam10256=Wadjet__JetB_I
+"(4979, 6138)",2,[6138],Fam4979=Septu__PtuA
+"(607, 2787)",2,[2787],Fam607=Shango__SngB
+"(7040, 9787)",2,[9787],Fam7040=SanaTA__SanaT
+"(5124, 7323)",2,[7323],Fam5124=Gao_TerY__TerYA
+"(2892, 8832)",2,[2892],Fam8832=Zorya__ZorB
+"(8146, 11071)",2,[8146],Fam11071=FS_HsdR_like__HP
+"(8413, 8528)",2,[8528],Fam8413=AbiEii__AbiEii
+"(7260, 9905)",2,[9905],Fam7260=CBASS__Cyclase_SMODS
+"(3283, 3291)",2,"[3283, 3291]",Pure_Novel_System
+"(5087, 6702)",2,"[5087, 6702]",Pure_Novel_System
+"(11206, 11206)",2,[11206],Pure_Novel_System
+"(5686, 7508)",2,[5686],Fam7508=Gao_RL__RL_B
+"(11698, 12305)",2,[12305],Fam11698=MazEF__MazF
+"(276, 1040)",2,"[276, 1040]",Pure_Novel_System
+"(7392, 9205)",2,[9205],Fam7392=AbiEii__AbiEii
+"(7469, 10089)",2,[10089],Fam7469=SanaTA__SanaT
+"(9525, 10390)",2,[10390],Fam9525=AbiEii__AbiEii
+"(7353, 8872)",2,[8872],Fam7353=RM_Type_II__Type_II_MTases
+"(4085, 6601)",2,[4085],Fam6601=Zorya__ZorB
+"(2881, 3384, 8125)",2,[8125],Fam2881=Eleos__LeoBC; Fam3384=Eleos__LeoB
+"(2268, 3739)",2,[3739],Fam2268=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II
+"(4744, 9181)",2,[9181],Fam4744=RM_Type_II__Type_II_MTases
+"(8389, 10268)",2,[8389],Fam10268=ShosTA__ShosT
+"(12001, 12446)",2,[12001],Fam12446=PfiAT__PfiA
+"(1769, 1795)",2,[1769],Fam1795=RM_Type_IV__Type_IV_REases
+"(2454, 8461)",2,[2454],Fam8461=Zorya__ZorB
+"(3131, 7830)",2,[3131],Fam7830=Gao_Qat__QatB
+"(4903, 6009)",2,[4903],Fam6009=Zorya__ZorB
+"(421, 4377, 9422)",2,[4377],Fam421=Wadjet__JetC_I; Fam9422=Wadjet__JetB_I
+"(12021, 12421)",2,[12021],Fam12421=PfiAT__PfiA
+"(6047, 9751)",2,[6047],Fam9751=RosmerTA__RmrT_2662548665
+"(7515, 10077)",2,[10077],Fam7515=SanaTA__SanaT
+"(9322, 9889)",2,[9322],Fam9889=RnlAB__RnlB
+"(7509, 9990)",2,[9990],Fam7509=AbiEii__AbiEii
+"(284, 1170)",2,[284],Fam1170=BREX__pglXI
+"(7530, 9882)",2,[9882],Fam7530=Zorya__ZorB
+"(7682, 7834)",2,[7834],Fam7682=Gao_TerY__TerYA
+"(4821, 5054)",2,"[4821, 5054]",Pure_Novel_System
+"(9309, 9542)",2,[9542],Fam9309=AbiEii__AbiEii
+"(661, 4079, 10387)",2,[4079],Fam661=Wadjet__JetC_I; Fam10387=Wadjet__JetB_I
+"(1659, 4598)",2,"[1659, 4598]",Pure_Novel_System
+"(11762, 11971)",2,[11971],Fam11762=MazEF__MazF
+"(8275, 10007)",2,[10007],Fam8275=AbiEii__AbiEii
+"(8433, 12495)",2,[12495],Fam8433=CapRel__CapRel
+"(2428, 7462)",2,[7462],Fam2428=BREX__pglZ3
+"(1065, 8836)",2,[1065],Fam8836=Wadjet__JetD_III
+"(6058, 9136)",2,[9136],Fam6058=AbiEii__AbiEii
+"(664, 7664)",2,[664],Fam7664=CARD_NLR__CARD_Protease_new
+"(3661, 4916)",2,[4916],Fam3661=RM__Type_I_MTases
+"(1792, 5216)",2,[1792],Fam5216=RM_Type_II__Type_II_MTases
+"(5649, 11909)",2,[11909],Fam5649=Dnd__DndA
+"(7249, 7606)",2,[7606],Fam7249=RosmerTA__RmrT_2603008502
+"(1353, 7918)",2,[7918],Fam1353=Zorya__ZorA
+"(11751, 12550)",2,[12550],Fam11751=MazEF__MazF
+"(6633, 10024)",2,[10024],Fam6633=RM_Type_II__Type_II_REases
+"(7251, 10290)",2,[10290],Fam7251=Butters_gp30_gp31__Butters_gp30
+"(7639, 8912)",2,[8912],Fam7639=cmr4gr7_III-B_III-C_2
+"(2582, 4948)",2,[4948],Fam2582=Gabija__GajA
+"(4077, 11654)",2,"[4077, 11654]",Pure_Novel_System
+"(6350, 6779)",2,[6779],Fam6350=Zorya__ZorB
+"(6200, 10558)",2,[10558],Fam6200=Butters_gp30_gp31__Butters_gp30
+"(5801, 11149)",2,[11149],Fam5801=CBASS__Cyclase_II
+"(8044, 10314)",2,[8044],Fam10314=AbiEii__AbiEi_4
+"(6069, 8972)",2,[8972],Fam6069=AbiEii__AbiEii
+"(9042, 10091)",2,[10091],Fam9042=AbiEii__AbiEii
+"(6278, 9012)",2,[9012],Fam6278=SanaTA__SanaT
+"(7525, 8534)",2,[8534],Fam7525=AbiEii__AbiEii
+"(8060, 10526)",2,[10526],Fam8060=AbiEii__AbiEii
+"(801, 1466)",2,[1466],Fam801=RM_Type_III__Type_III_REases
+"(638, 956)",2,[638],Fam956=RM_Type_IIG__Type_IIG
+"(2077, 2803)",2,[2077],Fam2803=Dpd__DpdI
+"(1496, 1915)",2,[1915],Fam1496=RM_Type_III__Type_III_REases
+"(6739, 7606)",2,[7606],Fam6739=RosmerTA__RmrT_2603008502
+"(4644, 5444)",2,"[4644, 5444]",Pure_Novel_System
+"(3920, 6655)",2,"[3920, 6655]",Pure_Novel_System
+"(31, 6361)",2,[6361],Fam31=Lamassu-Fam__LmuA_effector_Lipase
+"(9880, 10084)",2,[10084],Fam9880=cas6e_I_II_III_IV_V_VI_2
+"(4172, 5466)",2,[4172],Fam5466=RM_Type_II__Type_II_REases
+"(1925, 3918)",2,[3918],Fam1925=DRT_3__drt3b
+"(6653, 8299)",2,[8299],Fam6653=AbiEii__AbiEii
+"(2108, 3769, 5598)",2,"[2108, 3769]",Fam5598=Eleos__LeoBC
+"(2624, 4310)",2,[2624],Fam4310=Lamassu-Fam__LmuA_effector_Sir2
+"(3736, 3764)",2,"[3736, 3764]",Pure_Novel_System
+"(4272, 4983)",2,[4272],Fam4983=RM_Type_II__Type_II_MTases
+"(2765, 5622)",2,[5622],Fam2765=Gao_Qat__QatB
+"(1472, 4145)",2,[4145],Fam1472=Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II
+"(3900, 5599)",2,[3900],Fam5599=Dpd__DpdB
+"(189, 7331)",2,"[189, 7331]",Pure_Novel_System
+"(4300, 5444)",2,"[4300, 5444]",Pure_Novel_System
+"(9472, 11198)",2,[9472],Fam11198=cas2_I_II_III_IV_V_VI_4
+"(1353, 8407)",2,[8407],Fam1353=Zorya__ZorA
+"(12148, 12529)",2,[12148],Fam12529=MazEF__MazE
+"(5340, 7087, 9820)",2,[9820],Fam5340=Menshen__NsnB; Fam7087=Menshen__NsnC_2507451963
+"(2839, 9178)",2,[2839],Fam9178=Thoeris__ThsB_Global
+"(7696, 7818)",2,[7818],Fam7696=AbiEii__AbiEii
+"(4666, 6222)",2,"[4666, 6222]",Pure_Novel_System
+"(1925, 3748)",2,[3748],Fam1925=DRT_3__drt3b
+"(1558, 8134)",2,[1558],Fam8134=Hachiman__HamA_1
+"(8213, 10031)",2,[10031],Fam8213=AbiEii__AbiEii
+"(2112, 2667)",2,[2112],Fam2667=RM_Type_IV__Type_IV_REases
+"(1309, 1997)",2,"[1309, 1997]",Pure_Novel_System
+"(11935, 12401)",2,[11935],Fam12401=PfiAT__PfiA
+"(6968, 11381)",2,"[6968, 11381]",Pure_Novel_System
+"(8356, 8948)",2,[8948],Fam8356=AbiEii__AbiEii
+"(2647, 5631, 10501)",2,[10501],Fam2647=Lamassu-Fam__LmuB_SMC_PDDEXK; Fam5631=Lamassu-Fam__LmuA_effector_Cap4_nuclease_II
+"(1900, 12229)",2,[1900],Fam12229=cas2_I_II_III_IV_V_VI_3
+"(3430, 6130)",2,[3430],Fam6130=RM_Type_II__Type_II_MTases
+"(8659, 10201)",2,[10201],Fam8659=AbiEii__AbiEii

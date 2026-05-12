@@ -1,0 +1,755 @@
+Architecture,Frequency,Novel_Subunits,Anchored_Known_System
+"(11122, 12566)",30,[12566],Fam_11122=MazEF__MazF
+"(2465, 5923)",14,[2465],Fam_5923=Unknown_Defense
+"(1107, 7308)",12,[7308],Fam_1107=Shango__SngC
+"(3327, 3352)",9,[3327],Fam_3352=Unknown_Defense
+"(10482, 12281)",9,[12281],Fam_10482=MazEF__MazF
+"(10506, 12670)",8,[12670],Fam_10506=MazEF__MazF
+"(11683, 12256)",8,"[11683, 12256]",Pure_Novel_System
+"(2752, 4706)",8,[4706],Fam_2752=Pycsar__AG_cyclase
+"(686, 4408)",8,[686],Fam_4408=Druantia_I__DruB
+"(280, 340)",7,[280],Fam_340=DISARM_1__drmD
+"(3255, 9815)",6,"[3255, 9815]",Pure_Novel_System
+"(5546, 11465)",6,[5546],Fam_11465=cas2_I_II_III_IV_V_VI_3
+"(5907, 5974)",6,[5907],Fam_5974=AbiEii__AbiEii
+"(414, 3846)",6,[3846],Fam_414=Shango__SngC
+"(3136, 9040)",6,[9040],Fam_3136=Menshen__NsnB
+"(3810, 6053)",6,[6053],Fam_3810=AbiEii__AbiEi
+"(6490, 7015)",6,[7015],Fam_6490=Unknown_Defense
+"(1825, 10592)",6,"[1825, 10592]",Pure_Novel_System
+"(1486, 4280)",6,[4280],Fam_1486=RM_Type_II__Type_II_MTases
+"(3101, 3588)",6,[3588],Fam_3101=AbiEii__AbiEii
+"(2323, 6281)",6,[6281],Fam_2323=csx1_III_10
+"(674, 739)",6,[739],Fam_674=BREX__brxL
+"(6224, 8141)",6,[8141],Fam_6224=AbiEii__AbiEii
+"(4840, 8928)",6,[4840],Fam_8928=ShosTA__ShosT
+"(9367, 9566)",6,[9566],Fam_9367=Unknown_Defense
+"(4619, 5525)",6,[5525],Fam_4619=RM_Type_II__Type_II_MTases
+"(4457, 6154)",6,[4457],Fam_6154=Unknown_Defense
+"(5544, 5769)",6,[5769],Fam_5544=BREX__brxB_DUF1788
+"(4437, 5779)",5,[4437],Fam_5779=AbiEii__AbiEii
+"(2173, 10248)",5,[2173],Fam_10248=RM_Type_II__Type_II_REases
+"(10237, 10514)",5,[10237],Fam_10514=Unknown_Defense
+"(2585, 7571)",5,[2585],Fam_7571=AbiEii__AbiEii
+"(11273, 11765)",5,[11765],Fam_11273=MazEF__MazF
+"(2320, 2819)",5,[2819],Fam_2320=Pycsar__AG_cyclase
+"(8249, 9236)",5,[9236],Fam_8249=Unknown_Defense
+"(860, 3314)",5,[860],Fam_3314=RM_Type_II__Type_II_MTases
+"(3823, 7368)",5,[3823],Fam_7368=AbiL__AbiLii2
+"(9414, 11996)",5,[11996],Fam_9414=MazEF__MazF
+"(852, 9511)",5,[9511],Fam_852=PsyrTA__PsyrT
+"(1078, 6179)",5,[1078],Fam_6179=Unknown_Defense
+"(140, 5862, 7919)",5,[7919],Fam_140=Wadjet__JetC_II; Fam_5862=Wadjet__JetD_III
+"(6478, 9915)",5,[9915],Fam_6478=Unknown_Defense
+"(1434, 3368)",5,[1434],Fam_3368=SoFic__SoFic
+"(948, 6980)",5,"[948, 6980]",Pure_Novel_System
+"(863, 12576)",5,[12576],Fam_863=Unknown_Defense
+"(6813, 8660)",5,[8660],Fam_6813=AbiEii__AbiEi
+"(1358, 7400)",5,[1358],Fam_7400=Unknown_Defense
+"(8277, 10139)",5,[8277],Fam_10139=AbiEii__AbiEi
+"(5728, 11053)",5,[5728],Fam_11053=Unknown_Defense
+"(3750, 8394)",4,[8394],Fam_3750=RM_Type_II__Type_II_REases
+"(8277, 9349)",4,[8277],Fam_9349=RM_Type_IV__Type_IV_REases
+"(7883, 8048)",4,[7883],Fam_8048=Unknown_Defense
+"(4503, 5663)",4,[4503],Fam_5663=AbiEii__AbiEii
+"(6473, 7208)",4,[6473],Fam_7208=Unknown_Defense
+"(2429, 11459)",4,[2429],Fam_11459=cas2_I_II_III_IV_V_VI_3
+"(3678, 10790)",4,"[3678, 10790]",Pure_Novel_System
+"(10272, 11308)",4,[10272],Fam_11308=MazEF__MazF
+"(2251, 2883)",4,[2883],Fam_2251=Unknown_Defense
+"(7526, 10848, 12285)",4,[10848],Fam_7526=cas1_I_II_III_IV_V_VI_1; Fam_12285=cas2_I_II_III_IV_V_VI_3
+"(7524, 9057)",4,[9057],Fam_7524=AbiEii__AbiEii
+"(2704, 6094)",4,[6094],Fam_2704=AbiL__AbiLi2
+"(10933, 12416)",4,[10933],Fam_12416=Unknown_Defense
+"(1531, 4282)",4,[1531],Fam_4282=Unknown_Defense
+"(6772, 9591)",4,[9591],Fam_6772=AbiEii__AbiEi
+"(737, 1337)",4,[1337],Fam_737=RM_Type_IIG__Type_IIG
+"(6251, 9730)",4,[6251],Fam_9730=Unknown_Defense
+"(10595, 12422)",4,[10595],Fam_12422=MazEF__MazE
+"(6102, 6699)",4,[6102],Fam_6699=AbiEii__AbiEii
+"(2883, 2941)",4,[2883],Fam_2941=Unknown_Defense
+"(69, 3449)",4,[3449],Fam_69=Druantia__DruE
+"(5400, 6725)",4,"[5400, 6725]",Pure_Novel_System
+"(10185, 11191)",4,"[10185, 11191]",Pure_Novel_System
+"(1993, 10808)",4,[1993],Fam_10808=RM_Type_II__Type_II_REases
+"(7232, 10801)",4,[10801],Fam_7232=AbiEii__AbiEii
+"(4900, 9933)",4,[4900],Fam_9933=DarTG__DarT
+"(3309, 8441)",4,[8441],Fam_3309=AbiEii__AbiEii
+"(11817, 11932)",4,[11932],Fam_11817=Unknown_Defense
+"(1107, 5027)",4,[5027],Fam_1107=Shango__SngC
+"(5539, 5572)",4,[5572],Fam_5539=AbiEii__AbiEi
+"(1159, 2400)",4,[1159],Fam_2400=Unknown_Defense
+"(7028, 10304)",4,[10304],Fam_7028=cas2_I_II_III_IV_V_VI_3
+"(11178, 12242)",4,[12242],Fam_11178=MazEF__MazF
+"(963, 5218)",4,[5218],Fam_963=PsyrTA__PsyrT
+"(396, 2215)",4,[2215],Fam_396=Gao_Qat__QatA
+"(12185, 12887)",4,[12887],Fam_12185=MazEF__MazE
+"(9810, 10438)",4,"[9810, 10438]",Pure_Novel_System
+"(2435, 6549)",4,[6549],Fam_2435=Unknown_Defense
+"(5974, 6572)",4,[6572],Fam_5974=AbiEii__AbiEii
+"(3853, 7359)",4,[3853],Fam_7359=Unknown_Defense
+"(6123, 8529)",4,[6123],Fam_8529=AbiEii__AbiEi
+"(1529, 8606)",4,[1529],Fam_8606=CBASS__Jab
+"(3613, 6226)",4,[6226],Fam_3613=Unknown_Defense
+"(2649, 3489)",4,[2649],Fam_3489=RM_Type_II__Type_II_MTases
+"(5891, 9589)",4,[5891],Fam_9589=Unknown_Defense
+"(2377, 2708)",4,[2708],Fam_2377=Unknown_Defense
+"(5993, 9633)",4,[5993],Fam_9633=Unknown_Defense
+"(4975, 6736)",4,[6736],Fam_4975=AbiEii__AbiEii
+"(6848, 8949)",4,[8949],Fam_6848=AbiEii__AbiEii
+"(3391, 6271)",4,[6271],Fam_3391=AbiEii__AbiEi
+"(11593, 12692)",3,"[11593, 12692]",Pure_Novel_System
+"(578, 3189)",3,[3189],Fam_578=Wadjet__JetC_II
+"(1161, 1669, 2057)",3,[1669],Fam_1161=Wadjet__JetA_III; Fam_2057=Unknown_Defense
+"(2838, 7516)",3,[7516],Fam_2838=RM_Type_II__Type_II_REases
+"(6992, 7347)",3,"[6992, 7347]",Pure_Novel_System
+"(3320, 10836)",3,[10836],Fam_3320=RosmerTA__RmrA
+"(2331, 9095)",3,[9095],Fam_2331=Septu__PtuA
+"(7106, 9589)",3,[7106],Fam_9589=Unknown_Defense
+"(11303, 12358)",3,[12358],Fam_11303=PfiAT__PfiT
+"(8663, 9373)",3,[9373],Fam_8663=Unknown_Defense
+"(155, 11897)",3,[11897],Fam_155=SspBCDE__SspC
+"(9039, 11398)",3,[11398],Fam_9039=Unknown_Defense
+"(660, 4969)",3,[4969],Fam_660=DarTG__DarT
+"(6355, 8114)",3,[6355],Fam_8114=AbiEii__AbiEi
+"(6659, 8098)",3,[6659],Fam_8098=Unknown_Defense
+"(4356, 11289)",3,[4356],Fam_11289=cas2_I_II_III_IV_V_VI_6
+"(4225, 8509)",3,[8509],Fam_4225=SanaTA__SanaT
+"(946, 2147, 3036)",3,[2147],Fam_946=RM__Type_I_MTases; Fam_3036=RM__Type_I_S
+"(814, 1136)",3,"[814, 1136]",Pure_Novel_System
+"(10067, 10196)",3,[10067],Fam_10196=Unknown_Defense
+"(1705, 4231)",3,[1705],Fam_4231=Unknown_Defense
+"(510, 5555)",3,[510],Fam_5555=SanaTA__SanaT
+"(11371, 12473)",3,[12473],Fam_11371=Unknown_Defense
+"(6729, 8386)",3,[8386],Fam_6729=AbiEii__AbiEii
+"(5026, 7965)",3,[7965],Fam_5026=AbiEii__AbiEii
+"(189, 1357)",3,[189],Fam_1357=RM_Type_IIG__Type_IIG
+"(5080, 7728)",3,[5080],Fam_7728=AbiEii__AbiEi
+"(8744, 9628)",3,[9628],Fam_8744=Unknown_Defense
+"(510, 3462, 5555)",3,[510],Fam_3462=AbiEii__AbiEi; Fam_5555=SanaTA__SanaT
+"(1959, 2484)",3,[1959],Fam_2484=RM_Type_II__Type_II_MTases
+"(5392, 8628)",3,[8628],Fam_5392=AbiEii__AbiEii
+"(3704, 8176)",3,[3704],Fam_8176=RM_Type_II__Type_II_REases
+"(901, 8681)",3,[8681],Fam_901=PsyrTA__PsyrT
+"(10385, 12242)",3,[12242],Fam_10385=Unknown_Defense
+"(1489, 2077, 7367)",3,[1489],Fam_2077=Wadjet__JetA_I; Fam_7367=Wadjet__JetB_I
+"(2229, 3975)",3,[3975],Fam_2229=Unknown_Defense
+"(2700, 7651)",3,[7651],Fam_2700=AbiL__AbiLi2
+"(133, 1972)",3,[1972],Fam_133=RM__Type_I_REases
+"(5033, 7673)",3,[5033],Fam_7673=Unknown_Defense
+"(10825, 12418)",3,[12418],Fam_10825=MazEF__MazF
+"(1902, 4965)",3,"[1902, 4965]",Pure_Novel_System
+"(11443, 12479)",3,"[11443, 12479]",Pure_Novel_System
+"(1074, 3044)",3,[1074],Fam_3044=RM_Type_II__Type_II_MTases
+"(3792, 5457)",3,[3792],Fam_5457=Unknown_Defense
+"(6434, 7621)",3,[6434],Fam_7621=Unknown_Defense
+"(6945, 11889)",3,[6945],Fam_11889=cas2_I_II_III_IV_V_VI_3
+"(7738, 12680)",3,[12680],Fam_7738=MazEF__MazF
+"(6531, 8575)",3,[6531],Fam_8575=AbiEii__AbiEii
+"(2280, 8111)",3,[8111],Fam_2280=AbiL__AbiLi2
+"(2130, 10793)",3,[2130],Fam_10793=cas2_I_II_III_IV_V_VI_13
+"(7601, 12165)",3,[7601],Fam_12165=Unknown_Defense
+"(2874, 4857)",3,[2874],Fam_4857=RM_Type_IV__Type_IV_REases
+"(4083, 5012)",3,[5012],Fam_4083=Dpd__DpdB
+"(11444, 11936)",3,[11444],Fam_11936=MazEF__MazF
+"(202, 221)",3,[221],Fam_202=Unknown_Defense
+"(1942, 12505)",3,[1942],Fam_12505=Unknown_Defense
+"(1147, 1811)",3,[1147],Fam_1811=Unknown_Defense
+"(1103, 5154)",3,[5154],Fam_1103=Septu__PtuA
+"(11665, 12112)",3,[11665],Fam_12112=MazEF__MazE
+"(526, 4234)",3,[526],Fam_4234=Unknown_Defense
+"(270, 6658)",3,[6658],Fam_270=Unknown_Defense
+"(747, 5531)",3,[5531],Fam_747=Unknown_Defense
+"(1999, 9472)",3,[1999],Fam_9472=AbiB__AbiB
+"(11221, 11745)",3,[11745],Fam_11221=PfiAT__PfiT
+"(5668, 9309)",3,[5668],Fam_9309=Unknown_Defense
+"(2214, 6517)",3,[6517],Fam_2214=Unknown_Defense
+"(2773, 4172)",3,[4172],Fam_2773=RM_Type_II__Type_II_MTases
+"(7321, 8779)",3,[8779],Fam_7321=AbiEii__AbiEii
+"(3166, 8073)",3,[8073],Fam_3166=AbiL__AbiLi2
+"(6046, 8088)",3,[6046],Fam_8088=Unknown_Defense
+"(1117, 7410)",3,[7410],Fam_1117=Pycsar__AG_cyclase
+"(2150, 7619)",3,[7619],Fam_2150=Unknown_Defense
+"(3534, 10447)",3,[3534],Fam_10447=DarTG__DarT
+"(185, 4939)",3,"[185, 4939]",Pure_Novel_System
+"(10159, 11963)",3,[10159],Fam_11963=csx16_III_1
+"(3661, 6174)",3,[6174],Fam_3661=Unknown_Defense
+"(11824, 12007)",3,[12007],Fam_11824=MazEF__MazE
+"(1613, 2319)",3,[2319],Fam_1613=Unknown_Defense
+"(412, 607)",3,[412],Fam_607=Unknown_Defense
+"(5840, 7613)",3,[5840],Fam_7613=Unknown_Defense
+"(2453, 2574)",3,[2574],Fam_2453=pAgo__pAgo_LongA
+"(96, 5180)",3,[5180],Fam_96=cas1_I_II_III_IV_V_VI_1
+"(1745, 2790)",3,[2790],Fam_1745=Unknown_Defense
+"(7405, 7974)",3,[7974],Fam_7405=Unknown_Defense
+"(1202, 7754)",3,[1202],Fam_7754=CBASS__Jab
+"(4400, 4717)",3,[4717],Fam_4400=Unknown_Defense
+"(5435, 10028)",3,[5435],Fam_10028=Unknown_Defense
+"(3221, 10791)",3,[3221],Fam_10791=Unknown_Defense
+"(943, 4210)",3,[4210],Fam_943=RM_Type_II__Type_II_REases
+"(2584, 9364)",3,[9364],Fam_2584=Gao_Iet__IetA
+"(5051, 9157)",3,[5051],Fam_9157=Unknown_Defense
+"(4555, 7450)",3,[4555],Fam_7450=Unknown_Defense
+"(3774, 11446)",3,[11446],Fam_3774=Unknown_Defense
+"(11303, 11993)",3,[11993],Fam_11303=PfiAT__PfiT
+"(7574, 9057)",3,[9057],Fam_7574=AbiEii__AbiEii
+"(1807, 6122)",3,[6122],Fam_1807=Unknown_Defense
+"(5634, 11275)",3,[5634],Fam_11275=MazEF__MazF
+"(3055, 3411)",3,"[3055, 3411]",Pure_Novel_System
+"(4171, 5966)",3,[4171],Fam_5966=AbiEii__AbiEii
+"(2604, 2708)",3,[2708],Fam_2604=Unknown_Defense
+"(10611, 10885)",3,"[10611, 10885]",Pure_Novel_System
+"(2010, 11100)",3,[2010],Fam_11100=MazEF__MazF
+"(10718, 10763)",3,[10763],Fam_10718=MazEF__MazF
+"(6882, 7565)",3,"[6882, 7565]",Pure_Novel_System
+"(5146, 7495)",3,[7495],Fam_5146=AbiEii__AbiEii
+"(2681, 10715)",3,[10715],Fam_2681=csx1_III_9
+"(3619, 3971)",3,[3971],Fam_3619=Menshen__NsnA
+"(4406, 6871)",3,[6871],Fam_4406=DarTG__DarT
+"(8817, 9315)",3,[8817],Fam_9315=AbiEii__AbiEi
+"(757, 9098)",3,[9098],Fam_757=Unknown_Defense
+"(448, 1964)",3,[1964],Fam_448=RM__Type_I_REases
+"(2754, 8496)",3,[2754],Fam_8496=AbiL__AbiLii2
+"(9080, 12778)",3,[12778],Fam_9080=Unknown_Defense
+"(4576, 5846)",3,[5846],Fam_4576=AbiEii__AbiEi
+"(980, 5127)",3,[980],Fam_5127=Thoeris__ThsB_Global
+"(2725, 10094)",3,[10094],Fam_2725=Unknown_Defense
+"(363, 3383)",3,[363],Fam_3383=Unknown_Defense
+"(489, 1616)",3,[1616],Fam_489=RM_Type_III__Type_III_REases
+"(5490, 6464)",3,[6464],Fam_5490=AbiEii__AbiEii
+"(8796, 8907)",3,[8907],Fam_8796=CBASS__2TM
+"(7111, 7202)",3,[7202],Fam_7111=Unknown_Defense
+"(539, 4846)",3,[4846],Fam_539=Shango__SngC
+"(7655, 10991)",3,[10991],Fam_7655=Unknown_Defense
+"(2645, 8802)",3,[8802],Fam_2645=AbiL__AbiLi2
+"(11340, 11851)",3,[11851],Fam_11340=Unknown_Defense
+"(6916, 9375)",3,[9375],Fam_6916=pAgo__pAgo_S1B
+"(11091, 12636)",3,[11091],Fam_12636=Unknown_Defense
+"(1818, 5226)",2,[1818],Fam_5226=RM_Type_II__Type_II_REases
+"(2707, 10409)",2,"[2707, 10409]",Pure_Novel_System
+"(796, 1629)",2,[1629],Fam_796=RM_Type_II__Type_II_REases
+"(12051, 12225)",2,[12051],Fam_12225=Unknown_Defense
+"(3738, 11374)",2,[11374],Fam_3738=Unknown_Defense
+"(2575, 3264)",2,[2575],Fam_3264=Unknown_Defense
+"(3318, 8661)",2,[8661],Fam_3318=RM_Type_II__Type_II_MTases
+"(524, 7087)",2,[7087],Fam_524=Unknown_Defense
+"(53, 2749, 4556, 7588)",2,[4556],Fam_53=Wadjet__JetC_II; Fam_2749=Wadjet__JetA_II; Fam_7588=Wadjet__JetB_II
+"(4537, 10125)",2,[10125],Fam_4537=Unknown_Defense
+"(1990, 9011)",2,[9011],Fam_1990=cas1_I_II_III_IV_V_VI_1
+"(6722, 10536)",2,[10536],Fam_6722=Unknown_Defense
+"(11067, 12589)",2,[12589],Fam_11067=MazEF__MazF
+"(112, 12138)",2,[12138],Fam_112=BREX__pglX1
+"(6327, 8874)",2,[8874],Fam_6327=Unknown_Defense
+"(8713, 11160)",2,[8713],Fam_11160=Unknown_Defense
+"(7177, 8808)",2,[7177],Fam_8808=AbiEii__AbiEi
+"(2376, 7210)",2,[7210],Fam_2376=Menshen__NsnB
+"(3719, 9249)",2,[9249],Fam_3719=DRT_3__drt3a
+"(6105, 8653)",2,[8653],Fam_6105=Unknown_Defense
+"(11298, 12449)",2,[11298],Fam_12449=Unknown_Defense
+"(6789, 11823)",2,[6789],Fam_11823=Unknown_Defense
+"(5401, 9989)",2,[9989],Fam_5401=Unknown_Defense
+"(3223, 9029)",2,[3223],Fam_9029=Unknown_Defense
+"(4311, 8422)",2,[8422],Fam_4311=Unknown_Defense
+"(1546, 5455)",2,[5455],Fam_1546=RM_Type_IIG__Type_IIG
+"(60, 2877)",2,[2877],Fam_60=Menshen__NsnA
+"(3673, 9365)",2,[3673],Fam_9365=Unknown_Defense
+"(4021, 4872)",2,[4021],Fam_4872=Dpd__DpdB
+"(10114, 12454)",2,"[10114, 12454]",Pure_Novel_System
+"(5974, 6282)",2,[6282],Fam_5974=AbiEii__AbiEii
+"(6698, 10996)",2,[10996],Fam_6698=CBASS__Jab
+"(2772, 4699)",2,[2772],Fam_4699=Menshen__NsnC
+"(3962, 6046)",2,"[3962, 6046]",Pure_Novel_System
+"(3652, 10465)",2,[3652],Fam_10465=cas2_I_II_III_IV_V_VI_6
+"(1770, 3995)",2,[3995],Fam_1770=PARIS_II__AriB_DUF4435_II
+"(2985, 10761)",2,[2985],Fam_10761=Unknown_Defense
+"(5691, 7644)",2,[7644],Fam_5691=RosmerTA__RmrA
+"(4549, 8152)",2,[4549],Fam_8152=Unknown_Defense
+"(8371, 9991)",2,[9991],Fam_8371=cas2_I_II_III_IV_V_VI_3
+"(3237, 5171)",2,[3237],Fam_5171=Lit__Lit
+"(614, 2723)",2,[2723],Fam_614=Shango__SngC
+"(7125, 8020)",2,[7125],Fam_8020=Unknown_Defense
+"(173, 5652)",2,[5652],Fam_173=Unknown_Defense
+"(1525, 7993)",2,[7993],Fam_1525=Eleos__LeoA
+"(1006, 8044)",2,[1006],Fam_8044=Unknown_Defense
+"(2154, 4316)",2,[2154],Fam_4316=Unknown_Defense
+"(3763, 5886)",2,[5886],Fam_3763=AbiEii__AbiEi
+"(4287, 12318)",2,[4287],Fam_12318=Unknown_Defense
+"(10766, 11341)",2,[11341],Fam_10766=MazEF__MazF
+"(2264, 4650)",2,[2264],Fam_4650=Unknown_Defense
+"(7029, 12744)",2,[12744],Fam_7029=cas1_I_II_III_IV_V_VI_10
+"(1016, 2311)",2,[1016],Fam_2311=DarTG__DarT
+"(2677, 4090)",2,"[2677, 4090]",Pure_Novel_System
+"(4017, 9825)",2,"[4017, 9825]",Pure_Novel_System
+"(9546, 11066)",2,[9546],Fam_11066=MazEF__MazF
+"(197, 2864)",2,[2864],Fam_197=cas1_I_II_III_IV_V_VI_1
+"(12277, 12466)",2,"[12277, 12466]",Pure_Novel_System
+"(2269, 6207)",2,[2269],Fam_6207=Unknown_Defense
+"(6826, 10918)",2,[10918],Fam_6826=AbiEii__AbiEii
+"(100, 8785)",2,[8785],Fam_100=cas2_I_II_III_IV_V_VI_3
+"(5370, 8011)",2,[5370],Fam_8011=DarTG__DarT
+"(11905, 12090)",2,"[11905, 12090]",Pure_Novel_System
+"(447, 1940)",2,[1940],Fam_447=RM_Type_II__Type_II_REases
+"(6388, 6585)",2,[6388],Fam_6585=AbiEii__AbiEii
+"(1366, 5014)",2,"[1366, 5014]",Pure_Novel_System
+"(2815, 4845, 6015)",2,[2815],Fam_4845=AbiEii__AbiEii; Fam_6015=AbiEii__AbiEi
+"(3502, 6742)",2,[3502],Fam_6742=Unknown_Defense
+"(6134, 8291)",2,[6134],Fam_8291=Unknown_Defense
+"(9216, 10078)",2,[9216],Fam_10078=Unknown_Defense
+"(11303, 12315)",2,[12315],Fam_11303=PfiAT__PfiT
+"(631, 1816)",2,[1816],Fam_631=RM_Type_II__Type_II_MTases
+"(3650, 9096)",2,[3650],Fam_9096=Unknown_Defense
+"(1049, 1598)",2,[1049],Fam_1598=Unknown_Defense
+"(11824, 12545)",2,[12545],Fam_11824=MazEF__MazE
+"(604, 642, 993)",2,[993],Fam_604=RM__Type_I_REases; Fam_642=RM__Type_I_MTases
+"(426, 5180)",2,[5180],Fam_426=cas1_I_II_III_IV_V_VI_10
+"(3356, 8175)",2,[3356],Fam_8175=Unknown_Defense
+"(2320, 3378)",2,[3378],Fam_2320=Pycsar__AG_cyclase
+"(1956, 8791)",2,[8791],Fam_1956=Unknown_Defense
+"(3299, 9645)",2,"[3299, 9645]",Pure_Novel_System
+"(11322, 12267)",2,[11322],Fam_12267=MazEF__MazE
+"(2048, 12301)",2,[2048],Fam_12301=Unknown_Defense
+"(330, 3511, 5670)",2,"[3511, 5670]",Fam_330=RM_Type_II__Type_II_REases
+"(3959, 6152)",2,[6152],Fam_3959=AbiEii__AbiEii
+"(33, 10901)",2,[10901],Fam_33=Avs_III__Avs3A
+"(6552, 11419)",2,"[6552, 11419]",Pure_Novel_System
+"(2968, 12691)",2,[2968],Fam_12691=Unknown_Defense
+"(3545, 5267)",2,[3545],Fam_5267=RM_Type_II__Type_II_REases
+"(5462, 8806)",2,[8806],Fam_5462=AbiEii__AbiEii
+"(3485, 4279)",2,[4279],Fam_3485=Unknown_Defense
+"(3195, 3964)",2,"[3195, 3964]",Pure_Novel_System
+"(3333, 5641)",2,[3333],Fam_5641=ShosTA__ShosA
+"(709, 1236)",2,[709],Fam_1236=Unknown_Defense
+"(6151, 6439)",2,"[6151, 6439]",Pure_Novel_System
+"(7713, 8399)",2,[8399],Fam_7713=Unknown_Defense
+"(1294, 5514)",2,[5514],Fam_1294=RM_Type_II__Type_II_MTases
+"(2108, 10530)",2,[10530],Fam_2108=cas1_I_II_III_IV_V_VI_1
+"(914, 5685)",2,[5685],Fam_914=Wadjet__JetA_I
+"(1287, 5360, 7652)",2,[5360],Fam_1287=Septu__PtuA; Fam_7652=Septu__PtuB
+"(480, 8125)",2,[8125],Fam_480=cmr3gr5_III-B_III-C_5
+"(11905, 12110)",2,[11905],Fam_12110=Unknown_Defense
+"(975, 6583)",2,[6583],Fam_975=Pif__PifA
+"(7623, 12017)",2,"[7623, 12017]",Pure_Novel_System
+"(3718, 6864)",2,[3718],Fam_6864=Unknown_Defense
+"(2608, 5304)",2,[5304],Fam_2608=RM_Type_II__Type_II_REases
+"(8511, 9891)",2,[9891],Fam_8511=Unknown_Defense
+"(1675, 6304)",2,[6304],Fam_1675=Unknown_Defense
+"(406, 4658)",2,[4658],Fam_406=BREX__brxHII
+"(5819, 7971)",2,[5819],Fam_7971=FS_HP__HP
+"(2567, 9835)",2,"[2567, 9835]",Pure_Novel_System
+"(10574, 12510)",2,[12510],Fam_10574=MazEF__MazF
+"(515, 7592)",2,[7592],Fam_515=Unknown_Defense
+"(6986, 12179)",2,"[6986, 12179]",Pure_Novel_System
+"(1286, 11004)",2,[11004],Fam_1286=cas1_I_II_III_IV_V_VI_1
+"(7067, 12021)",2,[12021],Fam_7067=AbiEii__AbiEii
+"(1712, 6985)",2,[1712],Fam_6985=Unknown_Defense
+"(6503, 10140)",2,[6503],Fam_10140=Unknown_Defense
+"(853, 1516)",2,[1516],Fam_853=Eleos__LeoA
+"(3210, 5322)",2,[3210],Fam_5322=Thoeris_I__ThsA_new_grand
+"(10501, 12022)",2,[12022],Fam_10501=MazEF__MazF
+"(3478, 7005)",2,[7005],Fam_3478=Septu__PtuA
+"(6447, 8180)",2,[8180],Fam_6447=AbiEii__AbiEii
+"(3936, 9209)",2,[9209],Fam_3936=Unknown_Defense
+"(5065, 8852)",2,[5065],Fam_8852=Unknown_Defense
+"(1900, 3777)",2,[3777],Fam_1900=RM_Type_II__Type_II_MTases
+"(5181, 11944)",2,"[5181, 11944]",Pure_Novel_System
+"(2792, 4420)",2,[4420],Fam_2792=Unknown_Defense
+"(2068, 5893)",2,[5893],Fam_2068=Septu__PtuA
+"(30, 2916)",2,[30],Fam_2916=Unknown_Defense
+"(2683, 3403)",2,"[2683, 3403]",Pure_Novel_System
+"(587, 5687)",2,[587],Fam_5687=RM_Type_II__Type_II_REases
+"(8647, 9849)",2,[9849],Fam_8647=Unknown_Defense
+"(7205, 7372)",2,[7372],Fam_7205=Unknown_Defense
+"(682, 4426)",2,"[682, 4426]",Pure_Novel_System
+"(2216, 10491)",2,[2216],Fam_10491=Detocs__dtcB
+"(3630, 5535)",2,[5535],Fam_3630=Shedu__SduA
+"(6370, 8145)",2,[6370],Fam_8145=AbiEii__AbiEi
+"(306, 1611)",2,[1611],Fam_306=Unknown_Defense
+"(760, 4191)",2,[4191],Fam_760=Unknown_Defense
+"(194, 8216)",2,[8216],Fam_194=Unknown_Defense
+"(11393, 12087)",2,[11393],Fam_12087=Unknown_Defense
+"(11752, 11931)",2,[11752],Fam_11931=MazEF__MazE
+"(671, 683)",2,"[671, 683]",Pure_Novel_System
+"(3823, 7849)",2,[3823],Fam_7849=Unknown_Defense
+"(3758, 5076)",2,[5076],Fam_3758=Unknown_Defense
+"(8065, 11762)",2,[8065],Fam_11762=Unknown_Defense
+"(1353, 5040)",2,[1353],Fam_5040=DarTG__DarT
+"(2164, 4878)",2,[4878],Fam_2164=Zorya__ZorA2
+"(4469, 7057)",2,[4469],Fam_7057=AbiEii__AbiEii
+"(5392, 7833)",2,[7833],Fam_5392=AbiEii__AbiEii
+"(2687, 7465)",2,[7465],Fam_2687=Septu__PtuA
+"(6134, 9017)",2,"[6134, 9017]",Pure_Novel_System
+"(8606, 9353)",2,[9353],Fam_8606=CBASS__Jab
+"(11899, 12051)",2,[12051],Fam_11899=Unknown_Defense
+"(1456, 9881)",2,[1456],Fam_9881=Unknown_Defense
+"(6102, 6127)",2,"[6102, 6127]",Pure_Novel_System
+"(6823, 7100)",2,[7100],Fam_6823=RM_Type_II__Type_II_REases
+"(1222, 7625)",2,[7625],Fam_1222=Shango__SngC
+"(5743, 8732)",2,[8732],Fam_5743=AbiEii__AbiEii
+"(3959, 6984)",2,[6984],Fam_3959=AbiEii__AbiEii
+"(3894, 4954)",2,[4954],Fam_3894=RosmerTA__RmrA
+"(550, 1026)",2,[550],Fam_1026=Unknown_Defense
+"(4877, 10648)",2,"[4877, 10648]",Pure_Novel_System
+"(1245, 5053)",2,[1245],Fam_5053=RM_Type_II__Type_II_MTases
+"(1857, 1970)",2,[1857],Fam_1970=DarTG__DarT
+"(4710, 8564)",2,[8564],Fam_4710=RM_Type_II__Type_II_MTases
+"(4678, 11657)",2,[11657],Fam_4678=cas1_I_II_III_IV_V_VI_7
+"(7532, 10152)",2,[7532],Fam_10152=Unknown_Defense
+"(2488, 7789)",2,[7789],Fam_2488=AbiL__AbiLi2
+"(3081, 6113)",2,[6113],Fam_3081=Unknown_Defense
+"(3434, 7755)",2,[7755],Fam_3434=PARIS_II__AriA_AAA21
+"(3072, 6198)",2,[6198],Fam_3072=BREX__brxE
+"(765, 4294)",2,[4294],Fam_765=Gao_Iet__IetS
+"(6546, 10415)",2,[10415],Fam_6546=AbiEii__AbiEi
+"(5478, 12577)",2,[12577],Fam_5478=Unknown_Defense
+"(3799, 4298)",2,[4298],Fam_3799=SoFic__SoFic
+"(292, 349)",2,[349],Fam_292=RM_Type_III__Type_III_REases
+"(5787, 11007)",2,"[5787, 11007]",Pure_Novel_System
+"(197, 1293)",2,[1293],Fam_197=cas1_I_II_III_IV_V_VI_1
+"(4048, 8880)",2,[8880],Fam_4048=Unknown_Defense
+"(6878, 7563)",2,"[6878, 7563]",Pure_Novel_System
+"(5674, 8045)",2,[8045],Fam_5674=AbiEii__AbiEii
+"(2432, 9439)",2,"[2432, 9439]",Pure_Novel_System
+"(12140, 12536)",2,[12536],Fam_12140=MazEF__MazE
+"(541, 4309, 7057)",2,[4309],Fam_541=RM__Type_I_MTases; Fam_7057=AbiEii__AbiEii
+"(359, 1927)",2,[1927],Fam_359=Unknown_Defense
+"(151, 7887)",2,[7887],Fam_151=Wadjet__JetC_III
+"(789, 5772)",2,[5772],Fam_789=RM_Type_II__Type_II_REases
+"(1933, 7403)",2,[7403],Fam_1933=Unknown_Defense
+"(5647, 10646)",2,[5647],Fam_10646=Unknown_Defense
+"(1312, 6622)",2,[1312],Fam_6622=DISARM__drmC
+"(8315, 11839)",2,[11839],Fam_8315=Shedu__SduA
+"(3361, 10468)",2,[10468],Fam_3361=RM__Type_I_MTases
+"(10414, 10875)",2,[10414],Fam_10875=Unknown_Defense
+"(5937, 8154)",2,[8154],Fam_5937=Unknown_Defense
+"(1187, 4243)",2,[1187],Fam_4243=Unknown_Defense
+"(3839, 7443)",2,[3839],Fam_7443=AbiEii__AbiEii
+"(5937, 6449)",2,[6449],Fam_5937=Unknown_Defense
+"(4010, 5254)",2,[5254],Fam_4010=Unknown_Defense
+"(1317, 2496)",2,[1317],Fam_2496=RM_Type_IIG__Type_IIG
+"(8230, 10185)",2,[10185],Fam_8230=Unknown_Defense
+"(7445, 9402)",2,[7445],Fam_9402=Unknown_Defense
+"(11660, 11804)",2,[11660],Fam_11804=PfiAT__PfiA
+"(8514, 8662)",2,[8514],Fam_8662=Unknown_Defense
+"(4934, 8494)",2,[8494],Fam_4934=RM_Type_II__Type_II_MTases
+"(4049, 7333)",2,"[4049, 7333]",Pure_Novel_System
+"(9226, 11742)",2,[11742],Fam_9226=CBASS__Jab
+"(9376, 12425)",2,[12425],Fam_9376=Unknown_Defense
+"(1875, 2209)",2,[2209],Fam_1875=Unknown_Defense
+"(3296, 12143)",2,[3296],Fam_12143=cas2_I_II_III_IV_V_VI_3
+"(8681, 9663)",2,[8681],Fam_9663=cas2_I_II_III_IV_V_VI_3
+"(9214, 11476)",2,[9214],Fam_11476=MazEF__MazF
+"(5123, 10599)",2,[5123],Fam_10599=Unknown_Defense
+"(2995, 3312)",2,[3312],Fam_2995=cas1_I_II_III_IV_V_VI_1
+"(1052, 1809)",2,[1052],Fam_1809=Unknown_Defense
+"(4979, 7852)",2,[4979],Fam_7852=ShosTA__ShosT
+"(2948, 9151)",2,[9151],Fam_2948=AbiL__AbiLi2
+"(2515, 10255)",2,[2515],Fam_10255=Unknown_Defense
+"(3818, 11327)",2,[3818],Fam_11327=RosmerTA__RmrT
+"(1671, 2152)",2,[1671],Fam_2152=csx1_III_9
+"(1535, 3514)",2,[3514],Fam_1535=RM__Type_I_MTases
+"(1394, 2579)",2,[2579],Fam_1394=pAgo__SIR2APAZ
+"(7262, 7506)",2,[7262],Fam_7506=Unknown_Defense
+"(1205, 10852)",2,[10852],Fam_1205=Unknown_Defense
+"(8557, 9652)",2,[9652],Fam_8557=Unknown_Defense
+"(6520, 10683)",2,[6520],Fam_10683=Unknown_Defense
+"(3355, 7190)",2,[7190],Fam_3355=MADS__mad3
+"(4242, 9280)",2,"[4242, 9280]",Pure_Novel_System
+"(1814, 3253)",2,[3253],Fam_1814=RM__Type_I_MTases
+"(9704, 10023)",2,[10023],Fam_9704=DarTG__DarT
+"(4201, 6171)",2,[4201],Fam_6171=Unknown_Defense
+"(2387, 12848)",2,[2387],Fam_12848=Unknown_Defense
+"(8081, 11452)",2,[11452],Fam_8081=Unknown_Defense
+"(1990, 4523)",2,[4523],Fam_1990=cas1_I_II_III_IV_V_VI_1
+"(681, 1622, 1630)",2,[681],Fam_1622=RM_Type_IV__Type_IV_REases; Fam_1630=Unknown_Defense
+"(2723, 3876)",2,[2723],Fam_3876=cas1_I_II_III_IV_V_VI_1
+"(3165, 4078, 9339)",2,[9339],Fam_3165=Unknown_Defense; Fam_4078=Unknown_Defense
+"(10470, 12303)",2,[12303],Fam_10470=csx16_III_1
+"(1026, 3208)",2,[3208],Fam_1026=Unknown_Defense
+"(5530, 7230)",2,[7230],Fam_5530=Unknown_Defense
+"(10802, 12249)",2,[12249],Fam_10802=MazEF__MazF
+"(4439, 8069)",2,[8069],Fam_4439=SanaTA__SanaT
+"(7895, 8991)",2,[8991],Fam_7895=Unknown_Defense
+"(10163, 11211)",2,[10163],Fam_11211=Unknown_Defense
+"(6912, 12420)",2,[12420],Fam_6912=cas1_I_II_III_IV_V_VI_1
+"(8112, 9235)",2,[9235],Fam_8112=AbiEii__AbiEii
+"(4589, 5224)",2,[4589],Fam_5224=Unknown_Defense
+"(2980, 12192)",2,[12192],Fam_2980=Unknown_Defense
+"(4691, 10068)",2,[10068],Fam_4691=cas1_I_II_III_IV_V_VI_10
+"(5464, 6832, 6930)",2,[5464],Fam_6832=Unknown_Defense; Fam_6930=Unknown_Defense
+"(6558, 7953)",2,[7953],Fam_6558=AbiEii__AbiEii
+"(1396, 1831)",2,[1831],Fam_1396=Unknown_Defense
+"(6352, 7896)",2,[7896],Fam_6352=AbiEii__AbiEii
+"(847, 1616)",2,[1616],Fam_847=RM_Type_III__Type_III_REases
+"(3487, 6430)",2,[3487],Fam_6430=Unknown_Defense
+"(259, 354)",2,"[259, 354]",Pure_Novel_System
+"(4882, 10307)",2,"[4882, 10307]",Pure_Novel_System
+"(4204, 6526)",2,"[4204, 6526]",Pure_Novel_System
+"(4194, 5252)",2,[4194],Fam_5252=AbiEii__AbiEii
+"(317, 1284)",2,[317],Fam_1284=Unknown_Defense
+"(1383, 2699)",2,[2699],Fam_1383=RM__Type_I_MTases
+"(9285, 9510)",2,[9285],Fam_9510=Unknown_Defense
+"(781, 2433)",2,[781],Fam_2433=BREX__brxB_DUF1788
+"(2751, 3706)",2,[3706],Fam_2751=Unknown_Defense
+"(1066, 9679)",2,[9679],Fam_1066=Unknown_Defense
+"(4436, 7315)",2,[4436],Fam_7315=JukAB__JukB
+"(655, 3512)",2,[655],Fam_3512=Wadjet__JetD_I
+"(4053, 8367)",2,[4053],Fam_8367=Dpd__DpdB
+"(167, 2355)",2,[2355],Fam_167=Unknown_Defense
+"(11820, 12731)",2,"[11820, 12731]",Pure_Novel_System
+"(4287, 4593)",2,"[4287, 4593]",Pure_Novel_System
+"(1083, 4675)",2,[4675],Fam_1083=Pycsar__AG_cyclase
+"(2923, 6133)",2,[2923],Fam_6133=Unknown_Defense
+"(5050, 12326)",2,[5050],Fam_12326=Unknown_Defense
+"(2993, 7954)",2,[7954],Fam_2993=AbiL__AbiLi2
+"(6920, 7236)",2,[7236],Fam_6920=AbiEii__AbiEii
+"(900, 5320)",2,[900],Fam_5320=Unknown_Defense
+"(3296, 8649, 12143)",2,[3296],Fam_8649=cas4_I_II_III_IV_V_VI_1; Fam_12143=cas2_I_II_III_IV_V_VI_3
+"(3829, 6299)",2,[6299],Fam_3829=PARIS_II__AriA_AAA21
+"(4731, 11969)",2,[4731],Fam_11969=Unknown_Defense
+"(6631, 11091)",2,[11091],Fam_6631=Unknown_Defense
+"(665, 4626)",2,[4626],Fam_665=Gao_Iet__IetS
+"(2692, 4830)",2,[4830],Fam_2692=Unknown_Defense
+"(6857, 7328)",2,[6857],Fam_7328=Unknown_Defense
+"(648, 959)",2,[648],Fam_959=BREX__brxL
+"(4972, 9541)",2,"[4972, 9541]",Pure_Novel_System
+"(661, 8134)",2,[8134],Fam_661=Unknown_Defense
+"(2000, 2967)",2,[2967],Fam_2000=Unknown_Defense
+"(1353, 4670)",2,[1353],Fam_4670=Unknown_Defense
+"(1966, 2368)",2,[2368],Fam_1966=Unknown_Defense
+"(2791, 6314)",2,[2791],Fam_6314=RM_Type_II__Type_II_REases
+"(5630, 5907, 6200)",2,[5907],Fam_5630=AbiEii__AbiEi; Fam_6200=AbiEii__AbiEii
+"(3433, 11037)",2,[11037],Fam_3433=RosmerTA__RmrA
+"(7231, 10440)",2,[10440],Fam_7231=Unknown_Defense
+"(9455, 11835)",2,[11835],Fam_9455=Unknown_Defense
+"(10199, 12494)",2,[12494],Fam_10199=Dpd__DpdC
+"(10271, 12060)",2,[12060],Fam_10271=Unknown_Defense
+"(1323, 4373)",2,[1323],Fam_4373=Unknown_Defense
+"(11513, 11939)",2,[11513],Fam_11939=Mok_Hok_Sok__Mok
+"(12196, 12396)",2,[12396],Fam_12196=Unknown_Defense
+"(3024, 5560)",2,[3024],Fam_5560=RM_Type_II__Type_II_REases
+"(1773, 2121)",2,[2121],Fam_1773=Unknown_Defense
+"(6833, 8074)",2,[6833],Fam_8074=AbiEii__AbiEi
+"(6558, 8390)",2,[8390],Fam_6558=AbiEii__AbiEii
+"(2878, 8912)",2,[8912],Fam_2878=AbiL__AbiLi2
+"(377, 2727)",2,[2727],Fam_377=RM__Type_I_REases
+"(184, 3266)",2,[3266],Fam_184=Wadjet__JetC_I
+"(2127, 2314)",2,[2314],Fam_2127=pAgo__SIR2APAZ
+"(5488, 7057)",2,[5488],Fam_7057=AbiEii__AbiEii
+"(1925, 5557)",2,[1925],Fam_5557=Unknown_Defense
+"(1881, 6413)",2,[6413],Fam_1881=cas1_I_II_III_IV_V_VI_1
+"(4623, 6582)",2,"[4623, 6582]",Pure_Novel_System
+"(2400, 3706)",2,[3706],Fam_2400=Unknown_Defense
+"(259, 1468)",2,[259],Fam_1468=Unknown_Defense
+"(2339, 7454)",2,[7454],Fam_2339=RM_Type_II__Type_II_MTases
+"(2356, 9442)",2,[2356],Fam_9442=cas2_I_II_III_IV_V_VI_3
+"(8565, 11529)",2,[8565],Fam_11529=Unknown_Defense
+"(894, 2879, 5801)",2,[5801],Fam_894=BREX__brxHI; Fam_2879=BREX__brxD
+"(477, 10009)",2,[477],Fam_10009=Unknown_Defense
+"(9663, 10329)",2,[10329],Fam_9663=cas2_I_II_III_IV_V_VI_3
+"(7428, 9145)",2,[7428],Fam_9145=AbiEii__AbiEi
+"(2568, 8144)",2,[8144],Fam_2568=pAgo__pAgo_S1B
+"(11129, 12291)",2,[12291],Fam_11129=MazEF__MazF
+"(11600, 12755)",2,[11600],Fam_12755=PfiAT__PfiA
+"(5837, 10669)",2,[5837],Fam_10669=Unknown_Defense
+"(8036, 9917)",2,[9917],Fam_8036=ShosTA__ShosT
+"(1764, 9844)",2,[9844],Fam_1764=Wadjet__JetA_III
+"(2978, 3905)",2,[2978],Fam_3905=Unknown_Defense
+"(788, 8698)",2,[8698],Fam_788=RM_Type_IV__Type_IV_REases
+"(6424, 7530)",2,[6424],Fam_7530=Unknown_Defense
+"(4200, 9539)",2,[4200],Fam_9539=Unknown_Defense
+"(11453, 12011)",2,[11453],Fam_12011=Unknown_Defense
+"(5983, 8030)",2,[5983],Fam_8030=Unknown_Defense
+"(8164, 8902)",2,"[8164, 8902]",Pure_Novel_System
+"(1661, 9352)",2,"[1661, 9352]",Pure_Novel_System
+"(1227, 5286)",2,[1227],Fam_5286=RM_Type_II__Type_II_MTases
+"(10109, 11811)",2,[11811],Fam_10109=Unknown_Defense
+"(3597, 10731)",2,[10731],Fam_3597=Pycsar__AG_cyclase
+"(897, 9071)",2,[9071],Fam_897=Pycsar__AG_cyclase
+"(4151, 11663)",2,[11663],Fam_4151=GAPS4__GAPS4b
+"(458, 2457)",2,[2457],Fam_458=Unknown_Defense
+"(9468, 11624)",2,[9468],Fam_11624=Unknown_Defense
+"(2064, 4734)",2,"[2064, 4734]",Pure_Novel_System
+"(10145, 10776)",2,"[10145, 10776]",Pure_Novel_System
+"(2815, 4845)",2,[2815],Fam_4845=AbiEii__AbiEii
+"(1182, 3893)",2,[3893],Fam_1182=Unknown_Defense
+"(10211, 11543)",2,"[10211, 11543]",Pure_Novel_System
+"(6059, 8836)",2,[6059],Fam_8836=Unknown_Defense
+"(187, 3307)",2,[3307],Fam_187=Pycsar__AG_cyclase
+"(6129, 10421)",2,[10421],Fam_6129=Druantia_I__DruD
+"(929, 2629)",2,[929],Fam_2629=Unknown_Defense
+"(7446, 7487)",2,[7446],Fam_7487=Unknown_Defense
+"(6530, 9346)",2,[9346],Fam_6530=Unknown_Defense
+"(49, 1539, 3961, 6502)",2,[6502],Fam_49=Wadjet__JetC_II; Fam_1539=Wadjet__JetA_III; Fam_3961=Wadjet__JetD_II
+"(2556, 9833)",2,[2556],Fam_9833=Unknown_Defense
+"(1092, 9981)",2,[9981],Fam_1092=PsyrTA__PsyrT
+"(3532, 3679, 5338)",2,[5338],Fam_3532=RM_Type_II__Type_II_REases; Fam_3679=RM_Type_II__Type_II_MTases
+"(4302, 5665)",2,[4302],Fam_5665=RM_Type_II__Type_II_REases
+"(552, 1241)",2,[1241],Fam_552=Azaca__ZacC
+"(9401, 12602)",2,[9401],Fam_12602=cas2_I_II_III_IV_V_VI_3
+"(536, 1951)",2,[1951],Fam_536=Unknown_Defense
+"(3847, 4481)",2,[3847],Fam_4481=Unknown_Defense
+"(9273, 11473)",2,[11473],Fam_9273=Unknown_Defense
+"(152, 4482)",2,[4482],Fam_152=Wadjet__JetC_II
+"(2075, 4945)",2,[4945],Fam_2075=CBASS__Jab
+"(4342, 12204)",2,[4342],Fam_12204=Unknown_Defense
+"(2157, 8557)",2,[2157],Fam_8557=Unknown_Defense
+"(11304, 12101)",2,[12101],Fam_11304=Unknown_Defense
+"(3502, 6545)",2,[3502],Fam_6545=Unknown_Defense
+"(1249, 4993)",2,"[1249, 4993]",Pure_Novel_System
+"(6631, 8162)",2,[8162],Fam_6631=Unknown_Defense
+"(4410, 10564)",2,[4410],Fam_10564=Unknown_Defense
+"(4940, 6840)",2,[6840],Fam_4940=Unknown_Defense
+"(3374, 6547)",2,[6547],Fam_3374=RM_Type_II__Type_II_MTases
+"(413, 8484)",2,[413],Fam_8484=AbiEii__AbiEii
+"(1965, 5565)",2,[1965],Fam_5565=Unknown_Defense
+"(3453, 9561)",2,[3453],Fam_9561=Unknown_Defense
+"(5577, 6562)",2,[5577],Fam_6562=Unknown_Defense
+"(4411, 8739)",2,[8739],Fam_4411=Unknown_Defense
+"(1861, 9388)",2,[9388],Fam_1861=cas1_I_II_III_IV_V_VI_1
+"(5814, 8165)",2,[8165],Fam_5814=AbiEii__AbiEii
+"(8987, 11209)",2,[8987],Fam_11209=MazEF__MazF
+"(6511, 7361)",2,[7361],Fam_6511=csx1_III_9
+"(5197, 8689)",2,[5197],Fam_8689=AbiEii__AbiEii
+"(9606, 10445)",2,"[9606, 10445]",Pure_Novel_System
+"(2506, 5211)",2,[2506],Fam_5211=Unknown_Defense
+"(491, 4835)",2,[491],Fam_4835=Unknown_Defense
+"(1981, 9919)",2,[9919],Fam_1981=cas1_I_II_III_IV_V_VI_1
+"(2989, 8271)",2,[2989],Fam_8271=Unknown_Defense
+"(7425, 7747)",2,"[7425, 7747]",Pure_Novel_System
+"(8000, 10799)",2,[10799],Fam_8000=MazEF__MazF
+"(657, 3363)",2,"[657, 3363]",Pure_Novel_System
+"(174, 4293)",2,[4293],Fam_174=RM_Type_IIG__Type_IIG
+"(1798, 4551)",2,[4551],Fam_1798=Pycsar__AG_cyclase
+"(10482, 11768)",2,[11768],Fam_10482=MazEF__MazF
+"(10144, 11316)",2,"[10144, 11316]",Pure_Novel_System
+"(625, 7845)",2,[7845],Fam_625=Dnd_ABCDEFGH__DptF
+"(4641, 5904)",2,[5904],Fam_4641=AbiEii__AbiEi
+"(10105, 12221)",2,[12221],Fam_10105=MazEF__MazF
+"(7277, 12102)",2,[7277],Fam_12102=Unknown_Defense
+"(2371, 6972)",2,[6972],Fam_2371=Unknown_Defense
+"(5718, 6814)",2,[5718],Fam_6814=Unknown_Defense
+"(9495, 12099)",2,[12099],Fam_9495=Unknown_Defense
+"(8871, 12530)",2,[8871],Fam_12530=Unknown_Defense
+"(11763, 11919)",2,[11763],Fam_11919=Unknown_Defense
+"(1842, 8607)",2,[8607],Fam_1842=CBASS__QueC
+"(8967, 11800)",2,[8967],Fam_11800=Unknown_Defense
+"(6470, 6501)",2,[6501],Fam_6470=AbiEii__AbiEii
+"(3953, 4550)",2,[4550],Fam_3953=cas2_I_II_III_IV_V_VI_3
+"(1457, 2226, 7507, 10020)",2,"[1457, 7507, 10020]",Fam_2226=Unknown_Defense
+"(5391, 9274)",2,[9274],Fam_5391=DarTG__DarG
+"(2835, 5659)",2,[2835],Fam_5659=Unknown_Defense
+"(896, 9071)",2,[9071],Fam_896=Pycsar__AG_cyclase
+"(1005, 1233)",2,[1233],Fam_1005=Unknown_Defense
+"(3849, 6125)",2,[3849],Fam_6125=Unknown_Defense
+"(10604, 11020)",2,[11020],Fam_10604=Unknown_Defense
+"(3993, 7961, 11795)",2,[7961],Fam_3993=cas1_I_II_III_IV_V_VI_6; Fam_11795=cas2_I_II_III_IV_V_VI_3
+"(2676, 9006)",2,"[2676, 9006]",Pure_Novel_System
+"(5106, 6196)",2,[5106],Fam_6196=SanaTA__SanaT
+"(11719, 12553)",2,[11719],Fam_12553=MazEF__MazE
+"(11664, 12169)",2,"[11664, 12169]",Pure_Novel_System
+"(1131, 4098)",2,[4098],Fam_1131=pAgo__pAgo_S1B
+"(7571, 10051)",2,[10051],Fam_7571=AbiEii__AbiEii
+"(3870, 11263)",2,[11263],Fam_3870=MazEF__MazE
+"(483, 861)",2,[861],Fam_483=RM_Type_III__Type_III_REases
+"(121, 7824)",2,[7824],Fam_121=Wadjet__JetC_III
+"(7294, 9384)",2,"[7294, 9384]",Pure_Novel_System
+"(1135, 3058)",2,[3058],Fam_1135=Unknown_Defense
+"(2334, 3192)",2,[3192],Fam_2334=Unknown_Defense
+"(7274, 10819)",2,[7274],Fam_10819=Unknown_Defense
+"(38, 7633)",2,[7633],Fam_38=Mokosh_type_I__MkoA_D
+"(574, 603)",2,[603],Fam_574=RM_Type_III__Type_III_REases
+"(1612, 2404)",2,[2404],Fam_1612=Unknown_Defense
+"(4275, 7324)",2,[4275],Fam_7324=RM_Type_II__Type_II_REases
+"(4655, 5359)",2,[4655],Fam_5359=SanaTA__SanaT
+"(7686, 9428)",2,[7686],Fam_9428=AbiEii__AbiEi
+"(7205, 12817)",2,[12817],Fam_7205=Unknown_Defense
+"(2381, 6577)",2,[6577],Fam_2381=Unknown_Defense
+"(5636, 8556)",2,[5636],Fam_8556=Wadjet__JetB_III
+"(3204, 8738)",2,[3204],Fam_8738=Unknown_Defense
+"(2234, 12035)",2,[2234],Fam_12035=Unknown_Defense
+"(674, 3253)",2,[3253],Fam_674=BREX__brxL
+"(8240, 9363)",2,[9363],Fam_8240=Unknown_Defense
+"(1376, 5260)",2,[1376],Fam_5260=AbiQ__AbiQ
+"(1139, 4982, 9166)",2,[9166],Fam_1139=Hachiman__HamB; Fam_4982=Unknown_Defense
+"(4667, 5898)",2,[4667],Fam_5898=Unknown_Defense
+"(6281, 11947)",2,[6281],Fam_11947=Butters_gp30_gp31__Butters_gp31
+"(8372, 9991)",2,[9991],Fam_8372=cas2_I_II_III_IV_V_VI_3
+"(4216, 4967)",2,[4967],Fam_4216=BREX__brxA_DUF1819
+"(3154, 5279)",2,[3154],Fam_5279=RM_Type_II__Type_II_REases
+"(2958, 3190)",2,[2958],Fam_3190=AbiEii__AbiEii
+"(5791, 9548)",2,"[5791, 9548]",Pure_Novel_System
+"(2492, 6473)",2,[6473],Fam_2492=dGTPase__Sp_dGTPase
+"(1315, 4447)",2,[1315],Fam_4447=Unknown_Defense
+"(3554, 6643)",2,[3554],Fam_6643=Unknown_Defense
+"(6146, 8431)",2,[6146],Fam_8431=Unknown_Defense
+"(710, 2530)",2,[2530],Fam_710=Unknown_Defense
+"(3099, 5386)",2,[3099],Fam_5386=Unknown_Defense
+"(5917, 8726)",2,"[5917, 8726]",Pure_Novel_System
+"(2884, 3287, 5216, 6266)",2,[3287],Fam_2884=PARIS_I__AriA_AAA15; Fam_5216=PARIS_I__AriB_DUF4435_I; Fam_6266=Unknown_Defense
+"(11992, 12164)",2,"[11992, 12164]",Pure_Novel_System
+"(2569, 7299)",2,[2569],Fam_7299=AbiL__AbiLii2
+"(694, 2374)",2,[694],Fam_2374=Wadjet__JetD_I
+"(1573, 9069)",2,[1573],Fam_9069=Unknown_Defense
+"(3080, 9911)",2,[3080],Fam_9911=Unknown_Defense
+"(6740, 7860)",2,"[6740, 7860]",Pure_Novel_System
+"(2044, 6884)",2,[6884],Fam_2044=Unknown_Defense
+"(912, 8425)",2,"[912, 8425]",Pure_Novel_System
+"(5998, 6359)",2,"[5998, 6359]",Pure_Novel_System
+"(2698, 10096)",2,[2698],Fam_10096=Unknown_Defense
+"(2892, 8161)",2,[8161],Fam_2892=Wadjet__JetB_II
+"(1036, 2781)",2,[2781],Fam_1036=RM_Type_II__Type_II_MTases
+"(1009, 1229)",2,[1009],Fam_1229=Pycsar__AG_cyclase
+"(10291, 12100)",2,[12100],Fam_10291=Unknown_Defense
+"(85, 1782)",2,"[85, 1782]",Pure_Novel_System
+"(3727, 8986)",2,[8986],Fam_3727=PARIS_II__AriA_AAA21
+"(12112, 12518)",2,[12518],Fam_12112=MazEF__MazE
+"(490, 1803, 2040)",2,[2040],Fam_490=RM_Type_II__Type_II_REases; Fam_1803=RM_Type_II__Type_II_MTases
+"(6961, 8329)",2,[8329],Fam_6961=csx16_III_1
+"(1266, 2859)",2,"[1266, 2859]",Pure_Novel_System
+"(11807, 12165)",2,[11807],Fam_12165=Unknown_Defense
+"(7340, 10262)",2,[10262],Fam_7340=Unknown_Defense
+"(3974, 10047)",2,[10047],Fam_3974=Unknown_Defense
+"(4232, 7275)",2,[7275],Fam_4232=pAgo__XAPAZ
+"(5505, 5538)",2,[5538],Fam_5505=AbiEii__AbiEii
+"(7228, 8481)",2,[8481],Fam_7228=Unknown_Defense
+"(2640, 7620)",2,[7620],Fam_2640=AbiL__AbiLi2
+"(3823, 7843)",2,[3823],Fam_7843=PARIS_II__AriB_DUF4435_II
+"(4992, 6647)",2,[4992],Fam_6647=Wadjet__JetA_II
+"(3407, 5967)",2,[3407],Fam_5967=Unknown_Defense
+"(819, 10182)",2,[10182],Fam_819=RM_Type_IV__Type_IV_REases
+"(1079, 2437)",2,[2437],Fam_1079=Eleos__LeoBC
+"(6558, 8351)",2,[8351],Fam_6558=AbiEii__AbiEii
+"(1095, 5931)",2,[1095],Fam_5931=cas1_I_II_III_IV_V_VI_1
+"(4225, 8590)",2,[8590],Fam_4225=SanaTA__SanaT
+"(1514, 6910)",2,[6910],Fam_1514=Unknown_Defense
+"(2600, 5923)",2,[2600],Fam_5923=Unknown_Defense
+"(2640, 7365)",2,[7365],Fam_2640=AbiL__AbiLi2
+"(6242, 10791)",2,[6242],Fam_10791=Unknown_Defense
+"(538, 1973)",2,[1973],Fam_538=Dpd__DpdF
+"(2710, 6163)",2,[2710],Fam_6163=AbiEii__AbiEii
+"(938, 8401)",2,[8401],Fam_938=csx1_III_10
+"(4697, 5862)",2,[4697],Fam_5862=Wadjet__JetD_III
+"(6958, 7241)",2,"[6958, 7241]",Pure_Novel_System
+"(815, 3761)",2,[815],Fam_3761=Unknown_Defense
+"(8218, 8341)",2,[8218],Fam_8341=Unknown_Defense
+"(4148, 4433)",2,[4148],Fam_4433=Unknown_Defense
+"(7773, 9358)",2,[7773],Fam_9358=Unknown_Defense
+"(5782, 6661)",2,[6661],Fam_5782=Unknown_Defense
+"(5394, 10822)",2,"[5394, 10822]",Pure_Novel_System
+"(3989, 9300)",2,[3989],Fam_9300=Unknown_Defense
+"(324, 12147)",2,[12147],Fam_324=Unknown_Defense
+"(451, 1759)",2,[1759],Fam_451=Lit__Lit
+"(4018, 11485)",2,[4018],Fam_11485=Unknown_Defense
+"(11067, 12539)",2,[12539],Fam_11067=MazEF__MazF
+"(9931, 11906)",2,[9931],Fam_11906=Unknown_Defense
+"(3822, 4060)",2,"[3822, 4060]",Pure_Novel_System
+"(3762, 3922, 4027)",2,[3922],Fam_3762=Menshen__NsnA; Fam_4027=Menshen__NsnB
+"(4552, 7113)",2,[4552],Fam_7113=Unknown_Defense
+"(471, 8843)",2,[8843],Fam_471=Wadjet__JetC_I
+"(7582, 9168)",2,[9168],Fam_7582=Unknown_Defense
+"(1812, 9476)",2,[9476],Fam_1812=Wadjet__JetD_III
+"(62, 5578)",2,[5578],Fam_62=RM__Type_I_REases
+"(2764, 7581)",2,[2764],Fam_7581=AbiD__AbiD
+"(6995, 11099)",2,[11099],Fam_6995=Unknown_Defense
+"(778, 1742)",2,[1742],Fam_778=Unknown_Defense
+"(1035, 2118, 4817)",2,[4817],Fam_1035=RM__Type_I_MTases; Fam_2118=Unknown_Defense
